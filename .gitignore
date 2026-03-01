@@ -1,0 +1,21 @@
+# Obsidian workspace (device-specific)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/plugins/recent-files-obsidian/data.json
+
+# Obsidian cache
+.obsidian/cache
+
+# Trash
+.trash/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*~
+
+# PDF source document (optional - remove if you want to track it)
+*.pdf

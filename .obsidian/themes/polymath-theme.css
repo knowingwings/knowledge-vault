@@ -1,0 +1,666 @@
+/*
+ * Polymath's Operating System — Obsidian Theme
+ * Based on Knowings Brand Guide
+ * 
+ * Installation:
+ * 1. Copy this file to your vault: .obsidian/snippets/polymath-theme.css
+ * 2. In Obsidian: Settings → Appearance → CSS Snippets → Enable "polymath-theme"
+ * 
+ * Colour Palette:
+ * - NASA Blue (Primary): #0B3D91
+ * - Orange/Amber (Accent): #FF6B35
+ * - Near Black (Text): #1a1a1a
+ * - White (Background): #ffffff
+ * - Light Grey (Surfaces): #f5f5f5
+ * - Medium Grey (Borders): #cccccc
+ * - Dark Grey (Muted text): #666666
+ */
+
+/* ============================================
+   ROOT VARIABLES
+   ============================================ */
+
+:root {
+  /* Brand Colours */
+  --nasa-blue: #0B3D91;
+  --nasa-blue-light: #1a5bc4;
+  --nasa-blue-dark: #082a66;
+  --accent-orange: #FF6B35;
+  --accent-orange-light: #ff8a5c;
+  --near-black: #1a1a1a;
+  --white: #ffffff;
+  --light-grey: #f5f5f5;
+  --medium-grey: #cccccc;
+  --dark-grey: #666666;
+  --note-block-bg: #f0f4f8;
+  --warning-block-bg: #fff5f0;
+  
+  /* Typography */
+  --font-monospace: 'JetBrains Mono', 'Fira Code', 'SF Mono', 'Consolas', monospace;
+  --font-text: 'JetBrains Mono', 'Fira Code', monospace;
+  --font-size-normal: 14px;
+  --font-size-small: 12px;
+  --line-height: 1.6;
+}
+
+/* ============================================
+   LIGHT THEME
+   ============================================ */
+
+.theme-light {
+  --background-primary: var(--white);
+  --background-secondary: var(--light-grey);
+  --background-modifier-border: var(--medium-grey);
+  --text-normal: var(--near-black);
+  --text-muted: var(--dark-grey);
+  --text-accent: var(--nasa-blue);
+  --text-accent-hover: var(--nasa-blue-light);
+  --interactive-accent: var(--nasa-blue);
+  --interactive-accent-hover: var(--nasa-blue-light);
+  --text-on-accent: var(--white);
+  --text-selection: rgba(11, 61, 145, 0.2);
+  --text-highlight-bg: rgba(255, 107, 53, 0.3);
+}
+
+/* ============================================
+   DARK THEME
+   ============================================ */
+
+.theme-dark {
+  --background-primary: var(--near-black);
+  --background-secondary: #252525;
+  --background-modifier-border: #404040;
+  --text-normal: #e0e0e0;
+  --text-muted: #999999;
+  --text-accent: #5a9cf5;
+  --text-accent-hover: #7ab3ff;
+  --interactive-accent: var(--nasa-blue-light);
+  --interactive-accent-hover: #5a9cf5;
+  --text-on-accent: var(--white);
+  --text-selection: rgba(90, 156, 245, 0.3);
+  --text-highlight-bg: rgba(255, 107, 53, 0.4);
+  --note-block-bg: #1e2a38;
+  --warning-block-bg: #2a1f1a;
+  --light-grey: #2a2a2a;
+}
+
+/* ============================================
+   TYPOGRAPHY — BASE
+   ============================================ */
+
+body {
+  font-family: var(--font-text);
+  font-size: var(--font-size-normal);
+  line-height: var(--line-height);
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Monospace everywhere for technical aesthetic */
+.markdown-source-view,
+.markdown-preview-view,
+.cm-s-obsidian {
+  font-family: var(--font-monospace);
+}
+
+/* ============================================
+   HEADINGS
+   ============================================ */
+
+.markdown-preview-view h1,
+.markdown-rendered h1,
+.cm-header-1 {
+  font-family: var(--font-monospace);
+  font-size: 1.8em;
+  font-weight: 700;
+  color: var(--nasa-blue);
+  border-bottom: 2px solid var(--nasa-blue);
+  padding-bottom: 0.3em;
+  margin-top: 1.5em;
+  margin-bottom: 0.8em;
+}
+
+.theme-dark .markdown-preview-view h1,
+.theme-dark .markdown-rendered h1 {
+  color: #5a9cf5;
+  border-bottom-color: #5a9cf5;
+}
+
+.markdown-preview-view h2,
+.markdown-rendered h2,
+.cm-header-2 {
+  font-family: var(--font-monospace);
+  font-size: 1.4em;
+  font-weight: 700;
+  color: var(--nasa-blue);
+  margin-top: 1.3em;
+  margin-bottom: 0.6em;
+  border-bottom: none;
+}
+
+.theme-dark .markdown-preview-view h2,
+.theme-dark .markdown-rendered h2 {
+  color: #5a9cf5;
+}
+
+.markdown-preview-view h3,
+.markdown-rendered h3,
+.cm-header-3 {
+  font-family: var(--font-monospace);
+  font-size: 1.15em;
+  font-weight: 700;
+  color: var(--text-normal);
+  margin-top: 1.1em;
+  margin-bottom: 0.5em;
+}
+
+.markdown-preview-view h4,
+.markdown-rendered h4,
+.cm-header-4 {
+  font-family: var(--font-monospace);
+  font-size: 1em;
+  font-weight: 700;
+  color: var(--accent-orange);
+  margin-top: 1em;
+  margin-bottom: 0.4em;
+}
+
+.theme-dark .markdown-preview-view h4,
+.theme-dark .markdown-rendered h4 {
+  color: var(--accent-orange-light);
+}
+
+/* ============================================
+   LINKS
+   ============================================ */
+
+a,
+.internal-link,
+.external-link,
+.cm-hmd-internal-link,
+.cm-link {
+  color: var(--nasa-blue);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+a:hover,
+.internal-link:hover,
+.external-link:hover {
+  color: var(--nasa-blue-light);
+}
+
+.theme-dark a,
+.theme-dark .internal-link,
+.theme-dark .external-link {
+  color: #5a9cf5;
+}
+
+.theme-dark a:hover,
+.theme-dark .internal-link:hover {
+  color: #7ab3ff;
+}
+
+/* Unresolved links */
+.is-unresolved {
+  color: var(--accent-orange);
+  opacity: 0.8;
+}
+
+/* ============================================
+   BOLD AND ITALIC
+   ============================================ */
+
+strong,
+.cm-strong {
+  font-weight: 700;
+  color: var(--text-normal);
+}
+
+em,
+.cm-em {
+  font-style: italic;
+}
+
+/* ============================================
+   CODE AND CODE BLOCKS
+   ============================================ */
+
+code,
+.cm-inline-code {
+  font-family: var(--font-monospace);
+  font-size: 0.9em;
+  background-color: var(--light-grey);
+  padding: 0.15em 0.4em;
+  border-radius: 3px;
+  color: var(--nasa-blue);
+}
+
+.theme-dark code,
+.theme-dark .cm-inline-code {
+  background-color: #2a2a2a;
+  color: #5a9cf5;
+}
+
+pre,
+.markdown-preview-view pre,
+.cm-s-obsidian .HyperMD-codeblock {
+  font-family: var(--font-monospace);
+  font-size: 0.85em;
+  background-color: var(--light-grey);
+  border: 1px solid var(--medium-grey);
+  border-radius: 3px;
+  padding: 1em;
+  overflow-x: auto;
+}
+
+.theme-dark pre,
+.theme-dark .markdown-preview-view pre {
+  background-color: #252525;
+  border-color: #404040;
+}
+
+/* ============================================
+   BLOCKQUOTES
+   ============================================ */
+
+blockquote,
+.markdown-preview-view blockquote {
+  font-family: var(--font-monospace);
+  background-color: var(--note-block-bg);
+  border-left: 3px solid var(--nasa-blue);
+  border-radius: 2px;
+  padding: 0.8em 1em;
+  margin: 1em 0;
+  color: var(--text-normal);
+}
+
+.theme-dark blockquote,
+.theme-dark .markdown-preview-view blockquote {
+  background-color: #1e2a38;
+  border-left-color: #5a9cf5;
+}
+
+/* ============================================
+   CALLOUTS (Note blocks)
+   ============================================ */
+
+.callout {
+  font-family: var(--font-monospace);
+  border-radius: 3px;
+  padding: 0;
+  margin: 1em 0;
+}
+
+/* Default/Note callout — Blue */
+.callout[data-callout="note"],
+.callout[data-callout="info"],
+.callout[data-callout="tip"] {
+  background-color: var(--note-block-bg);
+  border: 1px solid var(--nasa-blue);
+  border-left: 3px solid var(--nasa-blue);
+}
+
+.callout[data-callout="note"] .callout-title,
+.callout[data-callout="info"] .callout-title,
+.callout[data-callout="tip"] .callout-title {
+  background-color: var(--nasa-blue);
+  color: var(--white);
+}
+
+/* Warning callout — Orange */
+.callout[data-callout="warning"],
+.callout[data-callout="caution"],
+.callout[data-callout="attention"] {
+  background-color: var(--warning-block-bg);
+  border: 1px solid var(--accent-orange);
+  border-left: 3px solid var(--accent-orange);
+}
+
+.callout[data-callout="warning"] .callout-title,
+.callout[data-callout="caution"] .callout-title,
+.callout[data-callout="attention"] .callout-title {
+  background-color: var(--accent-orange);
+  color: var(--white);
+}
+
+/* Success/Done callout — Keep green */
+.callout[data-callout="success"],
+.callout[data-callout="done"],
+.callout[data-callout="check"] {
+  background-color: #f0f8f0;
+  border-left: 3px solid #28a745;
+}
+
+.theme-dark .callout[data-callout="success"],
+.theme-dark .callout[data-callout="done"] {
+  background-color: #1a2a1a;
+}
+
+/* ============================================
+   TABLES
+   ============================================ */
+
+table {
+  font-family: var(--font-monospace);
+  font-size: 0.9em;
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1em 0;
+}
+
+th {
+  background-color: var(--nasa-blue);
+  color: var(--white);
+  font-weight: 700;
+  padding: 0.6em 0.8em;
+  text-align: left;
+  border: 1px solid var(--medium-grey);
+}
+
+.theme-dark th {
+  background-color: #1a4a8a;
+}
+
+td {
+  background-color: var(--light-grey);
+  padding: 0.6em 0.8em;
+  border: 1px solid var(--medium-grey);
+}
+
+.theme-dark td {
+  background-color: #252525;
+  border-color: #404040;
+}
+
+tr:hover td {
+  background-color: #e8e8e8;
+}
+
+.theme-dark tr:hover td {
+  background-color: #303030;
+}
+
+/* ============================================
+   TAGS
+   ============================================ */
+
+.tag,
+a.tag {
+  font-family: var(--font-monospace);
+  font-size: 0.85em;
+  background-color: var(--nasa-blue);
+  color: var(--white) !important;
+  padding: 0.15em 0.5em;
+  border-radius: 3px;
+  text-decoration: none;
+}
+
+.tag:hover,
+a.tag:hover {
+  background-color: var(--nasa-blue-light);
+}
+
+/* ============================================
+   CHECKBOXES / TASKS
+   ============================================ */
+
+input[type="checkbox"] {
+  accent-color: var(--nasa-blue);
+}
+
+.task-list-item-checkbox:checked {
+  background-color: var(--nasa-blue);
+  border-color: var(--nasa-blue);
+}
+
+/* Completed tasks */
+.task-list-item.is-checked .task-list-item-checkbox {
+  background-color: var(--nasa-blue);
+}
+
+/* ============================================
+   LISTS
+   ============================================ */
+
+ul,
+ol {
+  padding-left: 1.5em;
+}
+
+li {
+  margin-bottom: 0.3em;
+}
+
+/* Custom bullet styling */
+.markdown-preview-view ul > li::marker {
+  color: var(--nasa-blue);
+}
+
+.markdown-preview-view ol > li::marker {
+  color: var(--nasa-blue);
+  font-weight: 700;
+}
+
+/* ============================================
+   HORIZONTAL RULES
+   ============================================ */
+
+hr {
+  border: none;
+  border-top: 1px solid var(--medium-grey);
+  margin: 2em 0;
+}
+
+/* ============================================
+   YAML FRONTMATTER
+   ============================================ */
+
+.frontmatter-container {
+  font-family: var(--font-monospace);
+  font-size: 0.85em;
+  background-color: var(--light-grey);
+  border: 1px solid var(--medium-grey);
+  border-radius: 3px;
+  padding: 0.5em 1em;
+  margin-bottom: 1em;
+}
+
+.theme-dark .frontmatter-container {
+  background-color: #252525;
+  border-color: #404040;
+}
+
+.frontmatter-container .frontmatter-key {
+  color: var(--nasa-blue);
+}
+
+.theme-dark .frontmatter-container .frontmatter-key {
+  color: #5a9cf5;
+}
+
+/* ============================================
+   SIDEBAR AND FILE EXPLORER
+   ============================================ */
+
+.nav-file-title,
+.nav-folder-title {
+  font-family: var(--font-monospace);
+  font-size: var(--font-size-small);
+}
+
+.nav-file-title.is-active {
+  background-color: var(--nasa-blue);
+  color: var(--white);
+}
+
+.nav-folder-title {
+  font-weight: 700;
+}
+
+/* ============================================
+   GRAPH VIEW
+   ============================================ */
+
+.graph-view.color-fill {
+  color: var(--nasa-blue);
+}
+
+.graph-view.color-fill-highlight {
+  color: var(--accent-orange);
+}
+
+.graph-view.color-line {
+  color: var(--medium-grey);
+}
+
+.graph-view.color-line-highlight {
+  color: var(--nasa-blue);
+}
+
+/* ============================================
+   SCROLLBARS
+   ============================================ */
+
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--light-grey);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--medium-grey);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--nasa-blue);
+}
+
+.theme-dark ::-webkit-scrollbar-track {
+  background: #252525;
+}
+
+.theme-dark ::-webkit-scrollbar-thumb {
+  background: #505050;
+}
+
+/* ============================================
+   BUTTONS
+   ============================================ */
+
+button.mod-cta {
+  background-color: var(--nasa-blue);
+  color: var(--white);
+  font-family: var(--font-monospace);
+}
+
+button.mod-cta:hover {
+  background-color: var(--nasa-blue-light);
+}
+
+/* ============================================
+   SELECTION
+   ============================================ */
+
+::selection {
+  background-color: var(--text-selection);
+}
+
+/* ============================================
+   HIGHLIGHTS
+   ============================================ */
+
+mark,
+.cm-highlight {
+  background-color: var(--text-highlight-bg);
+  padding: 0.1em 0.2em;
+  border-radius: 2px;
+}
+
+/* ============================================
+   EMBEDDED CONTENT
+   ============================================ */
+
+.internal-embed {
+  border-left: 2px solid var(--nasa-blue);
+  padding-left: 1em;
+  margin: 1em 0;
+}
+
+/* ============================================
+   DATAVIEW PLUGIN STYLING
+   ============================================ */
+
+.dataview.table-view-table {
+  font-family: var(--font-monospace);
+  font-size: 0.85em;
+}
+
+.dataview.table-view-table th {
+  background-color: var(--nasa-blue);
+  color: var(--white);
+}
+
+/* ============================================
+   CUSTOM UTILITY CLASSES
+   Use with CSS snippets or Markdown
+   ============================================ */
+
+/* Note block styling (use with callout) */
+.note-block {
+  background-color: var(--note-block-bg);
+  border: 1px solid var(--nasa-blue);
+  border-radius: 3px;
+  padding: 1em;
+  margin: 1em 0;
+}
+
+/* Warning block styling */
+.warning-block {
+  background-color: var(--warning-block-bg);
+  border-left: 3px solid var(--accent-orange);
+  border-radius: 3px;
+  padding: 1em;
+  margin: 1em 0;
+}
+
+/* ============================================
+   PRINT STYLES
+   ============================================ */
+
+@media print {
+  body {
+    font-family: var(--font-monospace);
+    background: white;
+    color: black;
+  }
+  
+  h1 {
+    color: var(--nasa-blue);
+    border-bottom-color: var(--nasa-blue);
+  }
+  
+  h2 {
+    color: var(--nasa-blue);
+  }
+  
+  a {
+    color: var(--nasa-blue);
+  }
+  
+  code {
+    background-color: #f5f5f5;
+  }
+  
+  blockquote {
+    border-left-color: var(--nasa-blue);
+    background-color: #f0f4f8;
+  }
+}
+
+/* ============================================
+   END OF THEME
+   ============================================ */
