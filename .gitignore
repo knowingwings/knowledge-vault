@@ -19,3 +19,9 @@ Thumbs.db
 
 # PDF source document (optional - remove if you want to track it)
 *.pdf
+
+# Logs
+logs/
+
+# Temporary work files
+temp_work-files/
