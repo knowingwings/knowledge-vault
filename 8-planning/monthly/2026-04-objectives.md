@@ -30,7 +30,7 @@ Finish all remaining uni assignments and start the YouTube channel.
 
 ### 1. RASID complete
 - [x] Presentation delivered 21/04
-- [ ] EE + Sim brought into functional state (gearing fix in progress) — *sim partially functional for demo (arm moved but not a full run)*
+- [x] EE + Sim brought into functional state — *minor tweaks possible during report write-up*
 - [x] Demo tested and rehearsed
 - [ ] Report submitted 30/04
 
