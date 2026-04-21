@@ -46,14 +46,15 @@ created: 2026-04-19
 
 ### Priority 1: Uni Wrapped
 - **Definition of done:** All remaining assessments submitted and consultancy project on track.
-  - RASID presentation delivered (21/04) + report submitted (30/04)
-  - CMNT submitted (23/04)
-  - Robo-ethics: in-person debates + written rebuttals (early May)
-  - ME52078 Literature Review submitted (15/05)
-  - Consultancy project (starts 01/06) — meeting weekly deliverables through end of Q2
+  - [x] RASID presentation delivered (21/04)
+  - [ ] RASID report submitted (30/04)
+  - [x] CMNT submitted (21/04 — 2 days early)
+  - [ ] Robo-ethics: in-person debates + written rebuttals (early May)
+  - [ ] ME52078 Literature Review submitted (15/05)
+  - [ ] Consultancy project (starts 01/06) — meeting weekly deliverables through end of Q2
 - **Why this quarter:** Hard deadlines, degree-completion — non-negotiable. No exams after May.
 - **Weekly milestones:**
-  - W17 (Apr 20-26): RASID presentation (21/04), CMNT submitted (23/04)
+  - W17 (Apr 20-26): ✓ RASID presentation (21/04), ✓ CMNT submitted (21/04)
   - W18 (Apr 27 - May 3): RASID report done (30/04), Robo-ethics prep
   - W19 (May 4-10): Robo-ethics debates + rebuttals complete
   - W20 (May 11-17): ME52078 Lit Review submitted (15/05)

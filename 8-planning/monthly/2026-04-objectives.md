@@ -29,9 +29,9 @@ Finish all remaining uni assignments and start the YouTube channel.
 ## Objectives
 
 ### 1. RASID complete
-- [ ] Presentation delivered 21/04
-- [ ] EE + Sim brought into functional state (gearing fix in progress)
-- [ ] Demo tested and rehearsed
+- [x] Presentation delivered 21/04
+- [ ] EE + Sim brought into functional state (gearing fix in progress) — *sim partially functional for demo (arm moved but not a full run)*
+- [x] Demo tested and rehearsed
 - [ ] Report submitted 30/04
 
 ### 2. Start YouTube channel
@@ -40,7 +40,7 @@ Finish all remaining uni assignments and start the YouTube channel.
 - [ ] Algernon testing complete 30/04
 
 ### 3. CMNT submitted + remaining uni wrapped
-- [ ] CMNT submitted 23/04
+- [x] CMNT submitted — 21/04 (2 days ahead of 23/04 deadline)
 - [ ] Robo-ethics prep drafted (in-person debates + written rebuttals carry to early May)
 
 ---
