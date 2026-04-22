@@ -69,6 +69,45 @@ created: 2026-04-19
   - Target cadence: **1 video/month**
   - Stretch: rougher "project updates" on Patreon every 2 weeks — gated on channel growth
 - **Why this quarter:** Foundation for personal brand, portfolio, and income stream. Q1 missed this — Q2 is the real launch.
+
+**Video decomposition** *(added to counter the "ship video" tick hiding 10+ subtasks — see YouTube slip pattern memory)*
+
+**Reducer (Fri 24/04):**
+- [ ] Hardware: redesign finalised
+- [ ] Hardware: parts printed/machined
+- [ ] Hardware: assembled + functional
+- [x] Content: script/outline drafted — ~75-85%, needs polish + b-roll shot list
+- [ ] Filmed: A-roll
+- [ ] Filmed: B-roll
+- [ ] Edited: rough cut
+- [ ] Edited: colour grade
+- [ ] Edited: music/sound
+- [ ] Thumbnail + title + description
+- [ ] Uploaded
+- [ ] Blog/tech post drafted + published
+
+**Algernon (end May):**
+- [ ] CAD complete
+- [ ] Hardware stack defined
+- [ ] Parts sourced/printed
+- [ ] Assembled
+- [ ] Testing complete (30/04)
+- [ ] Script/outline drafted
+- [ ] Filmed: A-roll
+- [ ] Filmed: B-roll
+- [ ] Edited: rough cut
+- [ ] Edited: colour grade
+- [ ] Edited: music/sound
+- [ ] Thumbnail + title + description
+- [ ] Uploaded
+
+**Video 3 (end June — TBC, likely rover team content):**
+- [ ] Concept locked
+- [ ] Script/outline drafted
+- [ ] Filmed
+- [ ] Edited + graded + scored
+- [ ] Thumbnail + metadata
+- [ ] Uploaded
 - **Weekly milestones:**
   - W17 (Apr 20-26): **Reducer video uploaded Fri 24/04** + blog/tech post drafted
   - W18 (Apr 27 - May 3): Blog/tech post published, Algernon assembly/testing

@@ -35,9 +35,27 @@ Finish all remaining uni assignments and start the YouTube channel.
 - [ ] Report submitted 30/04
 
 ### 2. Start YouTube channel
-- [ ] Reducer video: redesign, assembly, filming, colour grade + music — uploaded Fri 24/04
-- [ ] Algernon CAD complete + hardware stack defined
-- [ ] Algernon testing complete 30/04
+
+**Reducer video — uploaded Fri 24/04:**
+- [ ] Hardware: redesign finalised
+- [ ] Hardware: parts printed/machined
+- [ ] Hardware: assembled + functional
+- [x] Content: script/outline drafted — ~75-85% at `8-planning/projects/knowing labs/Reducer Video.md`; needs polish pass + explicit b-roll shot list
+- [ ] Filmed: A-roll (explanatory)
+- [ ] Filmed: B-roll (demo + close-ups)
+- [ ] Edited: rough cut
+- [ ] Edited: colour grade
+- [ ] Edited: music/sound
+- [ ] Thumbnail + title + description
+- [ ] Uploaded
+- [ ] Blog/tech post drafted + published
+
+**Algernon — hardware ready by 30/04 (video filmed/edited in May):**
+- [ ] CAD complete
+- [ ] Hardware stack defined
+- [ ] Parts sourced/printed
+- [ ] Assembled
+- [ ] Testing complete (30/04)
 
 ### 3. CMNT submitted + remaining uni wrapped
 - [x] CMNT submitted — 21/04 (2 days ahead of 23/04 deadline)
