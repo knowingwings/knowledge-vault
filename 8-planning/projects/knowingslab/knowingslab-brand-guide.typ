@@ -377,85 +377,7 @@ the warm/analog dimension central to the PHM-aligned direction.)
 
 = ALGERNON
 
-== Overview
-
-*ALGERNON* — Articulated Limb, Generally Earnest, Rarely Nimble, Often Nuisance
-
-ALGERNON is a 5-DoF robotic arm that serves as the channel's recurring character and workshop companion. Named after the mouse in _Flowers for Algernon_, the reference implies something about potential, limitation, and affection despite inadequacy—without being heavy-handed about it.
-
-== Character
-
-ALGERNON is *not* stupid. He's cat-like: selectively competent, curious to the point of mischief, and smarter than he lets on. The comedy comes from agency, not incompetence.
-
-=== Personality Traits
-
-- *Curious* — investigates things he shouldn't, reaches into drawers, examines components
-- *Selectively helpful* — capable of handing you the right tool, but might not
-- *Mischievous* — not malicious, but definitely chaotic neutral
-- *Expressive* — uses wrist pitch/roll to "look" at things, tilt quizzically, recoil
-
-=== What ALGERNON Does
-
-- Appears in frame during explanations, reacting to content
-- "Helps" with tasks (hands tools, holds things—sometimes correctly)
-- Gets into things he shouldn't be in
-- Occasionally does something genuinely useful, undermining his reputation
-- Creates running bits that build over multiple videos
-
-=== What ALGERNON Doesn't Do
-
-- Talk (no voice, no text-to-speech—expression only)
-- Act purely incompetent (he's not a prop, he's a character)
-- Dominate videos (he's a presence, not the focus)
-
-== Technical Specifications
-
-#table(
-  columns: (auto, 1fr),
-  stroke: 0.75pt + rgb("#cccccc"),
-  inset: 8pt,
-  fill: (col, row) => if row == 0 { rgb("#0B3D91") } else { rgb("#f5f5f5") },
-  text(fill: white)[*Joint*], text(fill: white)[*Actuation*],
-  [Base (yaw)], [NEMA17 stepper, direct drive],
-  [Shoulder (pitch)], [NEMA17 stepper, direct drive],
-  [Elbow (pitch)], [NEMA17 stepper, rolling joint with cammed surface + linkages],
-  [Wrist (pitch)], [Hobby servo],
-  [Wrist (roll)], [Hobby servo],
-  [End effector], [TBD — gripper or tool mount + camera],
-)
-
-#table(
-  columns: (auto, 1fr),
-  stroke: 0.75pt + rgb("#cccccc"),
-  inset: 8pt,
-  fill: (col, row) => if row == 0 { rgb("#0B3D91") } else { rgb("#f5f5f5") },
-  text(fill: white)[*Component*], text(fill: white)[*Details*],
-  [Controller (Phase 1)], [SKR Mini E3 V3 or similar, Klipper/Marlin],
-  [Controller (Phase 2+)], [Raspberry Pi for high-level control, CV processing],
-  [End effector camera], [TBD — enables POV shots and future vision-based autonomy],
-)
-
-The rolling joint elbow uses a cammed surface with linkages maintaining contact between the cams—a novel mechanism that's technical content in its own right.
-
-== Rollout Strategy
-
-ALGERNON debuts in *shortform content first* (Reels, TikTok, Shorts) before appearing in long-form videos. This builds anticipation and establishes the character with an audience before the channel properly launches.
-
-#table(
-  columns: (auto, 1fr),
-  stroke: 0.75pt + rgb("#cccccc"),
-  inset: 8pt,
-  fill: (col, row) => if row == 0 { rgb("#0B3D91") } else { rgb("#f5f5f5") },
-  text(fill: white)[*Phase*], text(fill: white)[*Content*],
-  [Pre-launch], [Shortform clips: ALGERNON being built, first movements, early mischief],
-  [Video 1 (Reducer, Apr 2026)], [Workshop presence only — long-form focus stays on the reducer],
-  [Video 2 (May 2026)], [Dedicated character debut — ALGERNON's own long-form introduction],
-  [Ongoing], [Recurring presence in workshop content from Video 3 onward],
-)
-
-== Autonomy Roadmap
-
-*Section removed in v2.0 — the autonomy direction for ALGERNON has shifted since v1.4 and needs re-planning before it earns space in the brand guide. For Phase 1 of the channel, assume manual puppeteering for filming; autonomy is developed as a separate thread, not a prescribed three-phase ladder.*
+*Details compressed in v2.0 — ALGERNON (Articulated Limb, Generally Earnest, Rarely Nimble, Often Nuisance) is the channel's recurring character: a 5-DoF workshop arm, cat-like in temperament rather than stupid, named with a nod to Flowers for Algernon. His dedicated long-form debut is Video 2 (end May 2026); he is teased through shortform content from Q1 2026 onward but does not appear on-screen in Video 1, which closes only with a verbal hand-off ("someone in the next video"). Full joint specification, character breakdown, controller stack, and autonomy direction live in the Video 2 prep doc — re-evaluated before filming rather than frozen into the brand guide, as both the rolling-joint elbow mechanism and the autonomy approach have shifted since v1.4 and need re-planning before they earn space here.*
 
 = Content Strategy
 
@@ -480,8 +402,8 @@ ALGERNON debuts in *shortform content first* (Reels, TikTok, Shorts) before appe
 == Recurring Elements
 
 - *ALGERNON*: 5-DoF workshop arm — see dedicated section above
-- *Project status overlays*: Mission control style progress indicators
-- *"Kno." end card*: Consistent outro with links to blog/next video
+- *Project status overlays*: HUD-style lower-thirds (`lower-third-template.typ` in `assets/channel/`) — coloured stripe, section label, episode number, per §2 Visual Language
+- *HUD mark end card*: Consistent outro using the `ks-mark-hud` + wordmark lockup with links to blog/next video (`assets/ep01-reducer/end-card.typ` is the Video 1 instance)
 
 = Content Roadmap
 
@@ -504,13 +426,12 @@ Shortform content establishing ALGERNON before long-form launch. Self-managed po
 *Shortform Guidelines:*
 - Self-managed — prioritise consistency over volume
 - Lighter cadence between tentpoles; ramp 1–2 weeks before each video launches
-- Maintain visual consistency (NASA-punk aesthetic where possible)
+- Maintain visual consistency (Analog Space-Industrial per §2 — warm-dark grounds, HUD corner framing)
 - No voiceover needed — music/ambient audio
-- Include watermark on all content (current: "Kno.", under review)
+- Include `ks-mark-hud` watermark on all content, bottom-right, ~5% of frame height
 
 *Success Metrics:*
 - Not about viral hits — about consistent posting and building a small base
-- Target: 10-20 shorts posted before Video 1 drops
 - Any follower count >0 means Video 1 has an audience
 
 Goal: Build anticipation so Video 1 doesn't drop into a void.
@@ -531,11 +452,12 @@ First three tentpole videos establishing the channel's identity and technical cr
 )
 
 *Video 1 — Actuator Pivot (Reducer):*
-- Hook: "I saw a tweet and threw out months of work"
-- Structure: Cycloidal backstory → tweet/paper discovery → why plate harmonic is better → prototype + testing
-- ALGERNON: Workshop presence only — shortform has established him; long-form focus stays on the reducer
-- Companion blog: Deep dive on reducer theory, paper breakdown
-- Target length: 12-18 minutes
+- Hook: Doomscroll on Twitter → Nick Parker's plate harmonic reducer post → drop old cycloidal prototype in the bin (cold open, minimal voiceover)
+- Structure: Doomscroll hook → what-is-a-reduction explainer (car-gearbox analogy) → old cycloidal backstory (traffic-cone-orange PLA, broken output pin, shelved) → discovery + rover-team justification (became technical lead on arm) → strain wave gear explainer → plate harmonic benefits (flip the flex direction, compact, 3D-printable, replaces team's old cycloidal) → build montage → prototype verification testing (design validation, not torque) → tease Video 2
+- ALGERNON: Does *not* appear on-screen. Referenced only at the end as "someone in the next video" — the hand-off that sets up the Video 2 debut
+- Companion blog: Deep dive on reducer theory, Nick Parker's paper breakdown, plate harmonic vs cycloidal vs strain wave tradeoffs
+- Script: `Reducer Video.md` (this project dir). ~75–85% drafted as of launch week; polish pass + explicit b-roll shot list outstanding
+- Target length: 12–18 minutes
 
 *Video 2 — Meet ALGERNON:*
 - Hook: Dedicated introduction to ALGERNON — the workshop arm already glimpsed in shortform
