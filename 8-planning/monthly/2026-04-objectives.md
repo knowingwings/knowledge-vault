@@ -40,7 +40,7 @@ Finish all remaining uni assignments and start the YouTube channel.
 - [ ] Hardware: redesign finalised
 - [ ] Hardware: parts printed/machined
 - [ ] Hardware: assembled + functional
-- [x] Content: script/outline drafted — ~75-85% at `8-planning/projects/knowing labs/Reducer Video.md`; needs polish pass + explicit b-roll shot list
+- [x] Content: script/outline drafted — ~75-85% at `8-planning/projects/knowingslab/Reducer Video.md`; needs polish pass + explicit b-roll shot list
 - [ ] Filmed: A-roll (explanatory)
 - [ ] Filmed: B-roll (demo + close-ups)
 - [ ] Edited: rough cut
