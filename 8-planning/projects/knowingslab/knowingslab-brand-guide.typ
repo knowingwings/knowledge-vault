@@ -358,14 +358,23 @@ the warm/analog dimension central to the PHM-aligned direction.)
 
 == What This Sounds Like
 
+Excerpted from the Video 1 script (`Reducer Video.md`) — verbatim passage
+chosen as the reference for voice across future scripts.
+
 #block(
   fill: rgb("#f0f4f8"),
   inset: 12pt,
   radius: 2pt,
   stroke: 0.75pt + rgb("#0B3D91"),
 )[
-  _"So I've spent the last four months designing an actuator around cycloidal reducers. Quite pleased with myself, really. Then I saw a tweet about a Korean paper and immediately threw all of it in the bin. Let me explain why that was actually the correct decision."_
+  _"I spent a couple of months on and off over the summer designing this. This traffic cone coloured little bugger is a cycloidal drive. \... Now this little guy is a great reducer, but you'll notice that it is very tall, made of PLA, and overall not an excellent design. And to be honest between packing and other distractions I forgot about working on this little fella."_
 ]
+
+#v(0.3em)
+Hits the markers: dry understatement ("not an excellent design" for
+something that visibly failed), natural Britishism ("little bugger",
+"little fella"), deadpan self-accounting (forgot about it), technical
+grounding without jargon-gating.
 
 == What to Avoid
 
