@@ -465,7 +465,7 @@ First three tentpole videos establishing the channel's identity and technical cr
 - Structure: Doomscroll hook → what-is-a-reduction explainer (car-gearbox analogy) → old cycloidal backstory (traffic-cone-orange PLA, broken output pin, shelved) → discovery + rover-team justification (became technical lead on arm) → strain wave gear explainer → plate harmonic benefits (flip the flex direction, compact, 3D-printable, replaces team's old cycloidal) → build montage → prototype verification testing (design validation, not torque) → tease Video 2
 - ALGERNON: Does *not* appear on-screen. Referenced only at the end as "someone in the next video" — the hand-off that sets up the Video 2 debut
 - Companion blog: Deep dive on reducer theory, Nick Parker's paper breakdown, plate harmonic vs cycloidal vs strain wave tradeoffs
-- Script: `Reducer Video.md` (this project dir). ~75–85% drafted as of launch week; polish pass + explicit b-roll shot list outstanding
+- Script: `scripts/Reducer Video.md`. ~75–85% drafted as of launch week; polish pass + explicit b-roll shot list outstanding
 - Target length: 12–18 minutes
 
 *Video 2 — Meet ALGERNON:*
