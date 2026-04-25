@@ -32,7 +32,7 @@ Finish all remaining uni assignments and start the YouTube channel.
 - [x] Presentation delivered 21/04
 - [x] EE + Sim brought into functional state — *minor tweaks possible during report write-up*
 - [x] Demo tested and rehearsed
-- [ ] Report submitted 30/04
+- [x] Report ~99% done (finished W17) — only outstanding: lecturer drop-in session, then submit by 30/04
 
 ### 2. Start YouTube channel
 
@@ -65,8 +65,11 @@ Finish all remaining uni assignments and start the YouTube channel.
 
 ## Secondary Progress
 - [ ] IAC beachhead sprint — design direction and plan
+  - *Personal project (with friends, not uni). Reducer consumed the working time. Meeting scheduled W18 → carries to May with momentum.*
 - [ ] Finish "Lake of Darkness" (current fiction read)
+  - *Likely finishing on the London-return train (Tue 28/04).*
 - [ ] Language flashcards (French + German) — resume daily deck work
+  - *Acknowledged as most likely to slip this month.*
   - *Priority reduced: ETHZ Robotics Summer School declined (50 places / 256 applicants)*
 
 ---

@@ -47,7 +47,7 @@ created: 2026-04-19
 ### Priority 1: Uni Wrapped
 - **Definition of done:** All remaining assessments submitted and consultancy project on track.
   - [x] RASID presentation delivered (21/04)
-  - [ ] RASID report submitted (30/04)
+  - [x] RASID report ~99% done (finished W17) — only outstanding: lecturer drop-in session, then submit by 30/04
   - [x] CMNT submitted (21/04 — 2 days early)
   - [ ] Robo-ethics: in-person debates + written rebuttals (early May)
   - [ ] ME52078 Literature Review submitted (15/05)
