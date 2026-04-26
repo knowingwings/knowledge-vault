@@ -117,6 +117,11 @@ created: 2026-04-19
   - W26 (Jun 22-28): **Video 3 uploaded**; evaluate Patreon readiness
 
 ### Priority 3: Career & Portfolio (Job apps + Rover arm)
+- **Progress tally:**
+  - Targeted applications: **2 / up to 15** — Lunasa (Robotics Eng grad), Lunasa (GNC Eng grad) — submitted 26/04
+  - Cold outreaches: 0 / 5-10
+  - Jamie Palmer DM: ☐ (target end May)
+  - Icarus Robotics re-outreach: ☐
 - **Definition of done:**
   - **Job applications:**
     - Up to 15 high-quality targeted applications submitted
