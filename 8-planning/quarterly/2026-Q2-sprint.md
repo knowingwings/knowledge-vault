@@ -82,7 +82,9 @@ created: 2026-04-19
 - [ ] Edited: rough cut
 - [ ] Edited: colour grade
 - [ ] Edited: music/sound
-- [ ] Thumbnail + title + description
+- [x] Thumbnail
+- [x] Title
+- [ ] Description
 - [ ] Uploaded
 - [ ] Blog/tech post drafted + published
 

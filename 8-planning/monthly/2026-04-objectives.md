@@ -46,7 +46,9 @@ Finish all remaining uni assignments and start the YouTube channel.
 - [ ] Edited: rough cut
 - [ ] Edited: colour grade
 - [ ] Edited: music/sound
-- [ ] Thumbnail + title + description
+- [x] Thumbnail
+- [x] Title
+- [ ] Description
 - [ ] Uploaded
 - [ ] Blog/tech post drafted + published
 
