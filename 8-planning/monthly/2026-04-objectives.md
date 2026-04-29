@@ -54,7 +54,7 @@ Finish all remaining uni assignments and start the YouTube channel.
 
 **Algernon — hardware ready by 30/04 (video filmed/edited in May):**
 - [ ] CAD complete
-- [ ] Hardware stack defined
+- [x] Hardware stack defined (28/04, on the train)
 - [ ] Parts sourced/printed
 - [ ] Assembled
 - [ ] Testing complete (30/04)

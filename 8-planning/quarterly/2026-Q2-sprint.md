@@ -90,7 +90,7 @@ created: 2026-04-19
 
 **Algernon (end May):**
 - [ ] CAD complete
-- [ ] Hardware stack defined
+- [x] Hardware stack defined (28/04)
 - [ ] Parts sourced/printed
 - [ ] Assembled
 - [ ] Testing complete (30/04)
