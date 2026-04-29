@@ -47,7 +47,7 @@ created: 2026-04-19
 ### Priority 1: Uni Wrapped
 - **Definition of done:** All remaining assessments submitted and consultancy project on track.
   - [x] RASID presentation delivered (21/04)
-  - [x] RASID report ~99% done (finished W17) — only outstanding: lecturer drop-in session, then submit by 30/04
+  - [x] **RASID report submitted 29/04** (1 day early). LLM review ~80%; likely 70%+ grade.
   - [x] CMNT submitted (21/04 — 2 days early)
   - [ ] Robo-ethics: in-person debates + written rebuttals (early May)
   - [ ] ME52078 Literature Review submitted (15/05)
@@ -122,8 +122,7 @@ created: 2026-04-19
 - **Progress tally:**
   - Targeted applications: **2 / up to 15** — Lunasa (Robotics Eng grad), Lunasa (GNC Eng grad) — submitted 26/04
   - Cold outreaches: 0 / 5-10
-  - Jamie Palmer DM: ☐ (target end May)
-  - Icarus Robotics re-outreach: ☐
+  - **Jamie Palmer (Icarus) re-outreach:** draft in progress (28/04 — *single thread, not two*) — calling in his Jan 14 "summer roles will align" note
 - **Definition of done:**
   - **Job applications:**
     - Up to 15 high-quality targeted applications submitted

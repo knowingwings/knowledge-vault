@@ -32,7 +32,7 @@ Finish all remaining uni assignments and start the YouTube channel.
 - [x] Presentation delivered 21/04
 - [x] EE + Sim brought into functional state — *minor tweaks possible during report write-up*
 - [x] Demo tested and rehearsed
-- [x] Report ~99% done (finished W17) — only outstanding: lecturer drop-in session, then submit by 30/04
+- [x] **Report submitted 29/04** (1 day ahead of 30/04 deadline). Skipped lecturer drop-in; submitted as-is. LLM review ~80% → likely 70%+ grade.
 
 ### 2. Start YouTube channel
 
