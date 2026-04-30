@@ -152,7 +152,7 @@ created: 2026-04-19
 ### IAC beachhead sprint
 - Goal: Submission ~15 May (same window as ME52078)
 - Definition of done: Submitted on time
-- *Flag: may need to reprioritise into Priority 1 at next weekly (W17) — confirm whether this is a uni-grade deliverable*
+- *Confirmed personal project, not uni-graded — stays in Secondary, not Priority 1.*
 
 ### LARDER
 - Goal: Dogfood the app — surface bugs, iterate on features
