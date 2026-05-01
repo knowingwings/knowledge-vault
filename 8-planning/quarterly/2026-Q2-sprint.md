@@ -177,6 +177,7 @@ created: 2026-04-19
 - [ ] Video production — editing, colour grading, music selection, pacing
 - [ ] Interview prep — technical + behavioural
 - [ ] Languages to solid A2 (French + German) — can be exceeded
+- [ ] Social skills — getting more comfortable introducing self + talking to strangers (light goal, no formal tracking; just on the list)
 
 ---
 

@@ -66,6 +66,7 @@ created: 2026-05-01
 - [ ] Hydration test: 48-72 hr conclusion + onward habit if it pans out
 - [ ] Languages — maintenance cadence (kept on, not dropped)
 - [ ] LARDER — light dogfooding (use the app yourself for meal-planning / recipe scanning / receipt tracking, surface bugs naturally)
+- [ ] Reflash black Arduino's bootloader using blue Arduino as ISP (recovers the unit toasted in W17)
 
 *Deferred (not May):*
 - Form 1 SLA printer fix — printer is at home, user is in Bath until ~mid-September. Revisit in autumn.
