@@ -16,8 +16,7 @@ created: 2026-05-01
 | Date | Event |
 |------|-------|
 | Sat 02/05 | Reducer video uploaded (slipped from April) |
-| Mon 04/05 - Fri 08/05 | **Last week of lectures** |
-| Wed 06/05 | **Robo-ethics in-person debates** |
+| Wed 06/05 | **Robo-ethics in-person debates** (only campus commitment of the month — lectures done) |
 | Fri 08/05 | **Robo-ethics written rebuttals due** |
 | Thu 15/05 | ME52078 Literature Review submitted |
 | Thu 15/05 | IAC submission (personal project) |
@@ -34,7 +33,6 @@ created: 2026-05-01
 - [ ] Robo-ethics — in-person debates delivered (Wed 06/05)
 - [ ] Robo-ethics — written rebuttals submitted (Fri 08/05)
 - [ ] **ME52078 Literature Review submitted (Thu 15/05)**
-- [ ] Last week of lectures completed (04-08/05)
 - [ ] Consultancy prep done — ready for 01/06 kick-off
 
 ### 2. YouTube Channel — Reducer + Algernon shipped
