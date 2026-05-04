@@ -77,6 +77,9 @@ created: 2026-05-01
 - [ ] Runs: __/~18 (target 4-5/week)
 - [ ] Calisthenics: __/~24 (target 6/week)
 - [ ] Hydration tracking (during test window)
+- [ ] Body composition weigh-in — two cadences:
+  - **Daily (at evening reflection, consistent conditions):** Weight + Water% + Body fat% + Muscle mass% in daily Weigh-in section. Rolling trend.
+  - **Sunday morning fasted (high-accuracy anchor):** Same metrics, marked "(fasted morning, weekly anchor)" in Sunday's Weigh-in. Pulled into weekly review for trend.
 - [ ] Sleep discipline: 00:00 hardstop, up before 10:00 (charger out of bedroom)
 - [ ] Note conversion
 - [ ] Git commits
