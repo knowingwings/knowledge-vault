@@ -13,9 +13,9 @@ tags: [uni, consultancy, me52078, ab-dynamics, ioannis, reply]
 
 ## Key points from Ioannis's reply
 
-1. **Both asks rejected, but with reasoning**, not bureaucracy:
-   - Programme-level decision — can't accommodate individual moves
-   - Consultancy is core MSc component — can't be substituted by personal preference
+1. **First ask outright rejected; second ask qualified-not-closed:**
+   - **Project move between AB ↔ iNetic: hard no.** *"we cannot accommodate individual requests to move between projects at this stage."* Programme-level decision, locked.
+   - **Individual project substitute: technically not closed, but the bar is high.** *"not something that can be substituted **lightly** with an individual project based on **personal preference**."* The qualifiers ("lightly", "personal preference") leave space for academically-justified substitution but explicitly close preference-based substitution. Spirit of the email is redirect-to-AB-with-full-support.
 2. **Substantive technical argument:**
    - *"Your profile starts veering too much in bottom-up design and development of new systems/products."*
    - AB Dynamics offers top-down: characterisation, working within constraints, evidence-based improvement
@@ -69,6 +69,8 @@ Top-down evidence already on the master CV:
 - Gently note that the master CV (which Ioannis hasn't seen in full) includes substantial top-down work — specifically the Vapormatt 2025 placement (legacy industrial system + automation integration + customer-facing validation) and the BEng dissertation extension work
 - Frame: looking forward to the CV review specifically to discuss positioning this alongside the AB project
 - Posture: not defensive — interested in shaping the narrative
+
+*Do NOT push on the individual-project alternative.* Technically the door isn't fully closed (qualified language), but pushing now would: reject the support package being offered, look like "personal preference" dressed up, risk the supervisor relationship before it starts. Individual project goes from "active ask" to "quiet option if AB genuinely doesn't work out". Don't mention it in the reply.
 
 **Beat 4 — Engage with the flexibility within AB:**
 - Note interest in the suggested directions:
