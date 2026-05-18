@@ -90,6 +90,40 @@ Top-down evidence already on the master CV:
 
 ---
 
+## Final draft (v5) — ready for morning review before sending
+
+**Subject:** Re: Consultancy project allocation: request to reconsider
+
+**To:** Ioannis  **Cc:** Peter
+
+---
+
+Dear Ioannis,
+
+Thank you for taking the time to lay out the reasoning. I understand the programme-level rationale and accept the AB Dynamics allocation. The clarity on what can and can't be accommodated at this stage is helpful, and I appreciate the substantive engagement on positioning.
+
+The bottom-up versus top-down distinction is a fair framework. I'd add that the project portfolio I attached to my earlier email was selected to map to the iNetic brief specifically, so it weighted heavily toward bottom-up work. My broader CV includes substantive top-down experience: particularly my 2025 return placement at Vapormatt, where I led the refurbishment of a legacy wet-blasting machine into an automated R&D test rig (system characterisation, automation integration, validation campaigns), and my BEng dissertation, which extended the Zavlanos-Spesivtsev-Pappas decentralised-control framework rather than developing a new one. I'd value your view on how to position this kind of work alongside the AB Dynamics project to demonstrate the breadth and adaptability you mentioned.
+
+I'd welcome the CV review and the chance to discuss positioning in more detail. I'm free across the next three weeks.
+
+Looking forward to working with you on the project.
+
+Kind regards,
+Tom
+
+---
+
+**Iteration history:**
+- v1: too eager ("very much like"); CV review + Vicky Hill assumed as joint accept; "next week or two"
+- v2: too cool; "consulting with Vicky Hill or her team" felt bureaucratic
+- v3: dropped AB-flexibility para (was performing engagement)
+- v4: restored v1 phrasing for para 4 with 3-week timing
+- v5 (final): replaced "I'd very much like to take you up..." with "I'd welcome the CV review and the chance to discuss positioning"; dropped Vicky Hill / employability hub direct mention (felt shoehorned; let Ioannis introduce hub in his own time if he wants to)
+
+**Word count:** ~220
+
+---
+
 ## Pre-send checklist
 
 - [ ] Draft tomorrow with rested state — NOT tonight at 1.5/5
