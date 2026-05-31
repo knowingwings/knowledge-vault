@@ -1,8 +1,9 @@
 ---
 type: planning/monthly
 month: 2026-05
-status: active
+status: complete
 created: 2026-05-01
+reviewed: 2026-05-31
 ---
 
 # May 2026 Objectives
@@ -106,47 +107,58 @@ Build in rest. **Infrastructure layer (clean flat, fitness, sleep, hydration) is
 
 ---
 
-## Month-End Review (Complete last day of month)
+## Month-End Review (Complete last day of month — 31/05/2026)
+
+*Reviewed 31/05. May's real arc was recovery + honest reframing: from April's 1/5 collapse to a functioning late-May (running landed, dailies held, Merit secured), and a diagnostic shift — the can't-start pattern reframed toward an executive-function/ADHD lens (long known to Tom; surfaced this fortnight as explicit intent to pursue assessment, see `user_adhd_assessment_thread`). Headline deliverable (the video) did not ship.*
 
 ### Knowledge
-- Topics covered:
-- Gaps identified:
-- Priority for next month:
+*Skipped — May wasn't a study-heavy month (coursework wrapped early; the rest was project/career/personal). Priority for next month is captured in "Carry forward" below.*
 
 ### Articulation Check
-| Concept | Can ELI5? | Notes |
-|---------|-----------|-------|
-| 1. | Y/N | |
-| 2. | Y/N | |
-| 3. | Y/N | |
+*Skipped.*
 
 ### Quarterly Progress
-- Priority 1: __% | Blockers:
-- Priority 2: __% | Blockers:
-- Priority 3: __% | Blockers:
+- **Priority 1 (Uni Wrapped): ~85%** | Coursework all submitted (Robo-ethics, Lit Review early, CMNT 68% Merit, RASID). Merit secured. Remaining: consultancy execution (kicks off 01/06) + dissertation through mid-Sept. Blocker: the consultancy form is still unsettled (Ioannis meeting Mon/Tue: consultancy / individual / RA).
+- **Priority 2 (YouTube Shipped): ~0% shipped** | Still 0 videos live. Reducer video failed two binding deadlines (24/05, 28/05). The month's clearest failure. Blocker: the can't-start/exec-function pattern (now reframed toward ADHD) + reliance on non-binding self-set deadlines.
+- **Priority 3 (Career & Portfolio): ~20%** | CVs sharpened + accuracy-swept (master + 1-page Icarus); Ioannis CV-review + possible RA pending; Icarus application drafted, not yet sent. Applications-sent still low (~2/15). Blocker: same exec-function pattern; capacity.
 
 ### Nutrition
-- Average energy (1-5):
-- Training performance:
-- Weekly avg spend: £
-- Total month: £
-- vs budget (£120-200):
-- Adjustments:
+- Average energy (1-5): **~2.2** (from the dailies) — trajectory: low/variable early → deep trough mid-month (W20 ~1.5) → recovery late (W21 ~2.57, W22 ~2.6), with high variance (two 0–0.5 crash days in the final week).
+- Training performance: improved markedly late-month (running landed in W21-22).
+- Spend: **deliberately not tracked.** Decision (31/05): until there's income, tracking spend just adds stress for no decision-value. Revisit once there's an income stream (e.g. the RA, if it lands).
 
 ### Fitness *(targets recalibrated 10/05)*
-- Runs completed: /~12 (3/week)
-- Long runs: /~3
-- Calisthenics: /~8 (2/week)
-- Half marathon prep on track? Y/N (if applicable)
+- Runs completed: **~10** /~12 (3/week) — concentrated late-month: W20 (1), W21 (5), W22 (4). Pace floor dropped 6:08 → 5:53/km.
+- Long runs: ~2 (the 5km+ runs in W21-22).
+- Calisthenics: **0** /~8 — the persistent miss all month.
+- Half marathon prep on track? N/A.
 
 ### Key Wins
-
+- **Coursework all submitted + Merit secured** — Robo-ethics, Lit Review (4 days early), CMNT (68%), RASID. The big one.
+- **Exercise landed** — running became consistent late-month (W21 5 runs, W22 4), pace floor dropped 6:08 → 5:53/km. The one substrate lever clearly working.
+- **~A month of consistent dailies** — a genuine NET positive, especially compared to previous months. Reflection cadence held even through crash days.
 
 ### What didn't get done? Why?
-
+**Root cause across most of these: the can't-start / executive-function pattern (now reframed toward ADHD).**
+- **Reducer video** — failed two binding ship deadlines (24/05, 28/05). Exec-function pattern + reliance on non-binding self-set deadlines.
+- **Applications** — stalled (~2/15); Helsing not sent, Icarus drafted-not-sent. Same pattern + capacity.
+- **Calisthenics** — 0 all month. The persistent fitness miss (running landed, calis never did).
+- **Rover arm CAD/assembly** — slipped, but TBRo reframed to advisory + foundation-season, so less of a loss than it looks.
+- **Algernon** — untouched. Gated behind the Reducer by design (Reducer first). *Worth flagging: Algernon may actually be the more **engaging** project — possibly a better pick-up for getting traction, given engagement/interest drives task-initiation. Hold the Reducer-first rule for now, but note Algernon as a candidate momentum-starter if the Reducer stays stuck.*
+- **PL (Pieuvre Lumière)** — shelved. Not a failure; a deliberate call.
 
 ### Energy/wellbeing check:
+**Physical wellbeing is in a better place** — fitness landed, best fasted weigh-in of the series, energy floor higher than April. **Mental health, honestly, is not in a great place,** and the failings at holding myself accountable are compounding it. Read: physical is the faster-mover and has turned; mental will likely follow, but it's the slower starter. The accountability "failings" connect directly to the exec-function/ADHD reframe — which is part of *why* pursuing the assessment matters: some of what feels like a discipline failure may be executive dysfunction, and naming it correctly is itself part of the mental-health path. Holding both honestly: the distress is real, and there is a route.
 
+### Sofa→bed experiment — concluded (May activity, not carried)
+Ran the full final week on the sofa; moving back to the bed end of May (sheet-swap pending). Conclusion: the **nighttime protocol** (phone out of the room, hardstop) was always the real lever, not the surface. Technique held for future cycles.
 
-### Carry forward to next month:
+### Carry forward to next month (June):
+- **Consultancy execution** — kicks off Mon 01/06.
+- **Ioannis meeting outcome** — consultancy / individual project / RA (defines June's shape).
+- **ADHD assessment** — the tiny next step (chase referral status or check insurance); the concrete handle on the mental-health thread.
+- **Reducer / video** — decoupled from a hard self-set date (the twice-failed-deadline lesson).
+- **Applications** — Icarus (post-meeting), Helsing, the broader stalled pipeline.
+- **Exercise consistency** — protect the one lever clearly working; consistency over intensity.
+- **Mental health** as an explicit thread, not an afterthought — June's quiet priority underneath the rest.
 
