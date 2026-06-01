@@ -7,32 +7,37 @@ created: 2026-05-31
 
 # June 2026 Objectives
 
-*Scaffold only (31/05) — **to be finished tomorrow with fresh eyes.** Two carried lessons frame June: (1) W21/W22 showed over-committing sinks the plan — keep it lean; (2) the May wellbeing check named mental health as fragile, so June protects substrate and treats the ADHD/mental-health thread as a real line item.*
+*Set 01/06 (refined from the 31/05 scaffold). Two carried lessons frame June: (1) W21/W22 showed over-committing sinks the plan — keep it paced; (2) the May wellbeing check named mental health as fragile, so June protects substrate and treats the ADHD/mental-health thread as a real line item.*
 
-***Important:** the lean two-objective shape below is specifically a **W23 device while the project fork is open** (the Ioannis meeting decides consultancy / individual / RA). Once that uncertainty clears, set full June objectives. Do not treat the two below as the locked month plan.*
+***Objective 1's form is still provisional** — the Ioannis meeting (awaited) decides consultancy / individual / RA. Firm that piece up once the meeting happens; the rest of June stands regardless.*
 
 ## Monthly Theme
-**[DRAFT]** Land the consultancy sustainably, protect the substrate, and put the mental-health / ADHD thread on a real footing. *Not a sprint month — June starts the dissertation route; going in depleted means falling behind.*
+Settle into the dissertation project sustainably (whatever form the Ioannis meeting decides), protect the substrate, and put the mental-health / ADHD thread on a real footing — while getting the TBRo arm hardware out the door by end of month. *Not a sprint month: June starts the dissertation route; going in depleted means falling behind.*
 
 ## Key Dates
 | Date | Event |
 |------|-------|
-| Mon 01/06 | Consultancy kick-off |
-| Mon/Tue 01–02/06 | Ioannis CV-review meeting (consultancy / individual / RA fork; summer RA ask) |
+| Tue 02/06 *(or later this week)* | Ioannis CV-review meeting (consultancy / individual / RA fork; summer RA ask) — awaiting his reply to confirm |
 | Wed 03/06 | Consultancy prep sessions |
-| Mon 08/06 | Consultancy networking event |
+| Mon 08/06 | Consultancy kick-off (networking event) |
 | Mid-September | MSc wraps |
 
 ---
 
-## Objectives *(W23-provisional while the project fork is open — expand once it resolves)*
+## Objectives
 
-### 1. Consultancy — sustainable start
-- [ ] Ioannis meeting handled (fork resolved; RA ask made)
-- [ ] Kick-off + prep sessions attended; working cadence established
+### 1. Dissertation project — sustainable start *(form provisional pending the Ioannis meeting)*
+- [ ] Ioannis meeting handled (fork resolved: consultancy / individual / RA; RA ask made)
+- [ ] Kick-off (08/06) + prep sessions (03/06) attended; working cadence established
 - [ ] A rhythm that doesn't trigger the crash pattern (pace, not sprint)
 
-### 2. Mental health + ADHD pathway
+### 2. TBRo arm hardware out the door by EOM
+- [ ] Reducer testing closed out (the J0–J2 joint; the blocked thread all of May)
+- [ ] Arm assembled / hardware completed to a hand-over-able state
+- [ ] (Falls out naturally) Reducer footage → video, *if* the work produces it — no forced deadline
+- *Portfolio-critical: the arm is the single most-cited piece across CV + ISAM narrative. But this is a big push alongside consultancy ramp + fragile state — keep it paced (see Pacing Constraint).*
+
+### 3. Mental health + ADHD pathway
 - [ ] ADHD assessment: one concrete step taken (chase existing referral status OR check parents' insurance covers private)
 - [ ] Treat mental health as an explicit thread — not an afterthought
 
@@ -43,10 +48,10 @@ created: 2026-05-31
 ---
 
 ## Secondary Progress *(low-pressure, capacity-permitting)*
-- [ ] Reducer / video — **decoupled from any hard self-set date** (the twice-failed-deadline lesson). Ship when the work exists; new design is fine and makes good follow-up content.
+- [ ] Reducer **video** — comes out of the arm-hardware work (Objective 2); **no hard self-set date** (the twice-failed-deadline lesson). Ship when the work exists; a new design is fine and makes good follow-up content.
 - [ ] Icarus application — send post-Ioannis-feedback (CV already 1-page + accuracy-swept)
 - [ ] Helsing + broader application pipeline — as capacity allows
-- [ ] Algernon — gated behind Reducer, but noted as a potentially more *engaging* pick-up if Reducer stays stuck
+- [ ] Algernon — gated behind Reducer, but noted as a potentially more *engaging* pick-up if the Reducer stays stuck
 
 ---
 
@@ -56,17 +61,17 @@ June is **not** a sprint-to-collapse month:
 2. The crash/exec-function pattern is unresolved — pursuing the ADHD assessment is the real lever, not willpower.
 3. Consultancy starts 01/06; depleted-start = immediate dissertation debt.
 
-Substrate first. Lean objectives. Two priorities, not three.
+Substrate first. The arm push (Objective 2) is the main load risk — pace it across the month, don't let it become an EOM sprint-to-collapse. If the crash pattern flares, the arm slips before the substrate does.
 
 ---
 
 ## Habits to Track
 - [ ] Daily reflection: __/30 days
-- [ ] Runs: __/~12 (3/week)
-- [ ] Calisthenics: __/~8 (2/week — the persistent May miss)
+- [ ] Runs: __/~18 (**4/week, aiming for 5** — up from May's 3)
+- [ ] Calisthenics: **establish the habit this month** — focus on getting them worked in at all (no hard target yet; building toward ~6/week eventually). Was the persistent May miss (0).
+- [ ] Languages: __/30 — **rebuild as a daily recurring habit** (get it to properly stick again, not just maintenance)
 - [ ] Body composition: daily evening + Sunday fasted-morning anchor
 - [ ] Sleep discipline: nighttime protocol (phone out of room, hardstop)
-- [ ] Languages: __/30 days
 - [ ] Git commits
 
 ---
@@ -96,9 +101,9 @@ Substrate first. Lean objectives. Two priorities, not three.
 - Spend: (untracked until income — revisit if RA lands)
 
 ### Fitness
-- Runs completed: /~12
-- Long runs: /~3
-- Calisthenics: /~8
+- Runs completed: /~18 (4/week, aiming 5)
+- Long runs: /~4
+- Calisthenics: __ (target this month = established at all, not a count)
 
 ### Key Wins
 
