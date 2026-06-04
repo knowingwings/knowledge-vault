@@ -1,56 +1,58 @@
 ---
 type: fleeting
 date: 2026-05-29
-status: prep-pending
-tags: [uni, consultancy, ab-dynamics, ioannis, cv, meeting, career]
+status: prep-ready
+tags: [uni, consultancy, ab-dynamics, ioannis, cv, meeting, career, individual-project]
 ---
 
-# Ioannis CV-review meeting — talking points
+# Ioannis meeting — talking points
 
-**When:** Mon or Tue next week (1-2 June), online. Before Wed consultancy prep (deliberate — keeps the individual-project conversation marginally more alive).
-**Sent ahead:** `TLH_master-cv.pdf` + `TLH_icarus-cv.pdf` (general + space-robotics-targeted).
-**Stated purpose:** CV review + positioning discussion (what Ioannis agreed to).
-
----
-
-## Agenda (priority order + suggested flow)
-
-**1. CV review / positioning** *(stated purpose — open here, builds rapport)*
-- Get his read on the bottom-up vs top-down framing he raised.
-- Key point to make: the iNetic-era portfolio was *selected* to map to that brief, so it skewed bottom-up. The fuller CV has substantial top-down work.
-  - **Vapormatt 2025:** led refurbishment of a legacy wet-blasting machine into an automated R&D test rig (characterisation, automation integration, validation campaigns).
-  - **BEng dissertation:** extended the Zavlanos-Spesivtsev-Pappas framework rather than building a new one.
-- Ask: how to position this balance for the space-robotics / ISAM roles I'm targeting (the Icarus-tailored version is the live example).
-
-**2. AB Dynamics project shaping** *(turn the consultancy portfolio-relevant)*
-- He offered flexibility within AB: solution architecture leadership, robotics / control / system-integration elements, a leading role in system-analysis methodology.
-- Ask what that looks like *concretely* — pin down how to introduce robotics/control so the project actually serves the portfolio rather than being generic PID autotuning.
-
-**3. Summer RA ask** *(HIGH VALUE — the financial lever, raise clearly)*
-- Frame around *experience I want + value I'd add*, NOT money I need. Financial motive stays implicit.
-- Ask widely (you OR colleagues) — he may have no budget himself but know someone who does.
-- Make a "no" easy — academics hate being put on the spot for funding they don't control; a cushioned ask paradoxically lands a yes better.
-- Have my offer ready if he bites: ROS2 / simulation / hardware skillset + summer availability.
-- **Phrasing:** *"While I've got you — I'm keen to get as much robotics and research experience as I can over the summer alongside the consultancy. Is there any chance you or others in the department have research-assistant work going? I'd be glad to help on anything in the area."*
-- This is the one to make sure I actually ask — easy to let it slip.
-
-**4. Individual-dissertation door** *(LIGHT TOUCH — last, read the room)*
-- Feel out whether it's genuinely closed. Do NOT push or relitigate.
-- If he signals it's shut, drop it gracefully — protecting the new supervisor relationship matters more than a low-probability pivot.
+**When:** Fri 05/06, 10:00, in person (~1hr allocated).
+**Sent ahead:** `TLH_master-cv.pdf` + `TLH_icarus-cv.pdf`.
+**Stated purpose (to Ioannis):** CV review + positioning.
+**My real priority:** reopen the **individual-project** question. *(Posture updated 04/06 — this is now a genuine ask, not a light feel-out.)*
 
 ---
 
-## Approach reminders
+## Desired outcome (clear, with flexibility)
+- **Ideal:** individual project **+** RA position.
+- **Fine:** either one alone.
+- **Acceptable floor:** stay on AB, but shaped to be portfolio-relevant.
+- Income is **de-risked** (restaurant work in the city, pursued once the outcome's known) — so the RA is *not* a financial linchpin, and the meeting isn't financially loaded. This frees me to pursue the individual route cleanly.
 
-- **Order rationale:** positive asks (AB-shaping, RA) first to bank goodwill; individual-project last and soft. Leading with the individual-project frames everything after as escape-motivated, and makes the RA ask read as "money instead of AB." Keep RA and individual-project non-adjacent so they don't land as a package ("want out + want paid"). Door-closing-Wednesday is already handled by meeting before Wed — it doesn't need to be raised first.
-- This is relationship-building with a *new supervisor* — engaged and forward-looking, not transactional.
-- RA ask = direct and clear. Individual-project = soft, optional, drop if the moment isn't there.
-- Good rep for the verbal / interpersonal articulation thread I flagged as underdeveloped — practice saying the positioning out loud, not just on paper.
-- Don't oversell. The CV is strong (his "bottom-up too much" read was based on an incomplete view); the goal is positioning advice, not defending.
+---
+
+## Levers, ranked honestly
+1. **Procedural (strongest):** the course page framed it as consultancy **OR** individual project. I signed up understanding it was a *choice, not a done decision.* This is contractual, not preference — it's the door Ioannis's "not substituted lightly on personal preference" line does **not** close.
+2. **Supporting colour:** the iNetic brief aligned with my post-MSc direction; AB doesn't; AB is in its first year running a consultancy project with the uni. *(On their own these are the "personal preference" angle he already deflected — use them to support the procedural lead, not as the lead.)*
+
+---
+
+## Agenda / flow
+1. **CV review / positioning** *(the stated purpose — open here, genuine, builds rapport).*
+   - His bottom-up vs top-down read: the iNetic-era portfolio was *selected* to map to that brief, so it skewed bottom-up. Fuller CV has substantial top-down — Vapormatt 2025 (legacy machine → automated R&D rig), BEng dissertation (extended a framework, not built one).
+   - Let this surface the trajectory naturally (the Icarus-tailored CV shows where I'm headed: space-robotics / ISAM).
+2. **Transition to the project question** *(flows from "this is the trajectory I'm building toward").*
+   - Lead procedural: *"the course materials framed this as a choice, and I signed up on that basis — I'd like to understand whether the individual route is genuinely available."* Calm inquiry, not demand.
+   - Support with trajectory (iNetic-aligned, AB isn't) only after the procedural point lands.
+3. **The fork:**
+   - **If open** → discuss what the individual project would look like; raise the RA as a *complement* (see structure-fit note).
+   - **If he holds firm** → pivot to AB-shaping (how to introduce robotics / control / system-integration so AB serves the portfolio) and **drop the individual push gracefully.** Don't relitigate.
+4. **RA — light, complementary, not the linchpin.** Pairs naturally with the individual route or as summer work. Don't force it.
+
+---
+
+## Approach reminders (the honest caveats — keep these in the room)
+- **Don't go in hot.** Calm inquiry, gauge his response, don't relitigate if he holds. The department has the structural upper hand (per 12/05 read); a hard push likely fails and risks the new supervisor relationship before it starts.
+- **Keep the investigation OUT of the room.** The "impression" line is a direct copy of what triggered the ongoing investigation, and Ioannis is implicated. Echoing it to him in a 1:1 reads as leverage/threat and will *harden* him. Make the choice argument on its own merits; the investigation is a separate track — do not conflate.
+- **Structure-fit (the key self-check):** an individual project *alone* is the lowest-external-structure option — and self-directed-without-a-forcing-function is exactly the documented can't-start weakness (W20-W22). Individual **+ RA / routine** is the *executable* version; individual-alone is the risky one. So if I win the individual route, pairing it with external structure isn't optional — it's what makes it deliverable. A perfectly-aligned dissertation I can't start is worse than a misaligned one I finish.
+- **Driver check:** the real push is partly eroded institutional trust, not just project specifics. Legitimate grievance — but don't let process-anger pick the option that hurts the outcome.
+- Relationship-building with a *new supervisor*: engaged, forward-looking. Good rep for the verbal/interpersonal articulation thread.
 
 ---
 
 ## Post-meeting
-
-- Revise the Icarus CV per his feedback if useful, *then* redraft the message to Jamie Palmer and send the Icarus application next week.
-- Log outcome + any RA / individual-project signal in that day's daily; update `project_q2_2026.md`.
+- If individual opens: scope it + lock external structure (RA/routine) early.
+- If AB confirmed: get the shaping concrete; pursue restaurant work for income.
+- Either way: pursue restaurant work for income; revise Icarus CV per any feedback, then redraft the Jamie Palmer message.
+- Log outcome + RA / individual signal in the day's daily; update `project_q2_2026.md`.
