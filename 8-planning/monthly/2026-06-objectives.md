@@ -9,7 +9,7 @@ created: 2026-05-31
 
 *Set 01/06 (refined from the 31/05 scaffold). Two carried lessons frame June: (1) W21/W22 showed over-committing sinks the plan — keep it paced; (2) the May wellbeing check named mental health as fragile, so June protects substrate and treats the ADHD/mental-health thread as a real line item.*
 
-***Objective 1's form is still provisional** — the Ioannis meeting (awaited) decides consultancy / individual / RA. Firm that piece up once the meeting happens; the rest of June stands regardless.*
+***Objective 1 resolved (05/06 meeting):** staying on **AB consultancy**, scoped to the **data analysis / pipeline**. Individual project was technically possible but admin-prohibitive — chapter closed cleanly (case made, heard, practical no). Ioannis will **ask around re: RA roles** in the dept (pending). Key CV feedback: I show the *what* but not the *how/why* of technical decisions ("data-driven design" doesn't show through) — the AB project is the vehicle to build exactly that evidence.*
 
 ## Monthly Theme
 Settle into the dissertation project sustainably (whatever form the Ioannis meeting decides), protect the substrate, and put the mental-health / ADHD thread on a real footing — while getting the TBRo arm hardware out the door by end of month. *Not a sprint month: June starts the dissertation route; going in depleted means falling behind.*
@@ -17,8 +17,8 @@ Settle into the dissertation project sustainably (whatever form the Ioannis meet
 ## Key Dates
 | Date | Event |
 |------|-------|
-| Tue 02/06 *(or later this week)* | Ioannis CV-review meeting (consultancy / individual / RA fork; summer RA ask) — awaiting his reply to confirm |
-| Wed 03/06 | Consultancy prep sessions |
+| Fri 05/06 ✓ | Ioannis meeting — individual project closed (admin-prohibitive); staying on AB, scoped to data analysis/pipeline; RA being explored; CV "show the how/why" feedback |
+| Wed 03/06 ✓ | Consultancy prep sessions |
 | Mon 08/06 | Consultancy kick-off (networking event) |
 | Mid-September | MSc wraps |
 
@@ -26,10 +26,12 @@ Settle into the dissertation project sustainably (whatever form the Ioannis meet
 
 ## Objectives
 
-### 1. Dissertation project — sustainable start *(form provisional pending the Ioannis meeting)*
-- [ ] Ioannis meeting handled (fork resolved: consultancy / individual / RA; RA ask made)
-- [ ] Kick-off (08/06) + prep sessions (03/06) attended; working cadence established
+### 1. AB consultancy — sustainable start, scoped to data analysis / pipeline *(resolved 05/06)*
+- [x] Ioannis meeting handled (individual project closed cleanly; staying on AB; RA being explored by Ioannis)
+- [x] Prep sessions (03/06) attended
+- [ ] Kick-off (08/06) attended; working cadence established
 - [ ] A rhythm that doesn't trigger the crash pattern (pace, not sprint)
+- [ ] **Use the project to build "data-driven design" evidence** — foreground the *how/why* of decisions (the CV gap Ioannis flagged), so it produces a portfolio piece that shows reasoning, not just output. Raises the pull on AB: it's now the vehicle that fills the gap, not a consolation prize.
 
 ### 2. TBRo arm hardware out the door by EOM
 - [ ] Reducer testing closed out (the J0–J2 joint; the blocked thread all of May)

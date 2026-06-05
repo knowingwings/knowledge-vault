@@ -1,11 +1,18 @@
 ---
 type: fleeting
 date: 2026-05-29
-status: prep-ready
+status: complete
 tags: [uni, consultancy, ab-dynamics, ioannis, cv, meeting, career, individual-project]
 ---
 
 # Ioannis meeting — talking points
+
+> **OUTCOME (05/06, 10:00-11:00):**
+> - **Individual project: closed cleanly.** Technically possible but admin-prohibitive. Case made (procedural lead), heard, practical no. Chapter done.
+> - **AB scoped to data analysis / pipeline** — Tom fine with it.
+> - **RA: positive** — Ioannis will ask around the dept (pending). Income separately de-risked via restaurant work, so RA is complementary now.
+> - **CV feedback (the real takeaway):** strong on the technical *what*, weak on the *how/why* of decisions — "data-driven design" doesn't show through. The AB project is the vehicle to build that evidence (→ raises AB's value). See `user_career_targeting`.
+> - Calm-inquiry approach worked; investigation framing kept out of the room. Good handling.
 
 **When:** Fri 05/06, 10:00, in person (~1hr allocated).
 **Sent ahead:** `TLH_master-cv.pdf` + `TLH_icarus-cv.pdf`.
