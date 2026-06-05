@@ -8,7 +8,7 @@ tags: [uni, consultancy, ab-dynamics, ioannis, cv, meeting, career, individual-p
 # Ioannis meeting — talking points
 
 > **OUTCOME (05/06, 10:00-11:00):**
-> - **Individual project: closed cleanly.** Technically possible but admin-prohibitive. Case made (procedural lead), heard, practical no. Chapter done.
+> - **Individual project: effectively closed, but gracefully.** Ioannis was on board and willing to help — case (procedural lead) genuinely accepted. Blocker is **supervisor availability**, not principle: no dept supervisor, would need a Comp Sci one, cross-dept = "logistical nightmare." Structural no, not a rejection. *(Faint glimmer: his RA asking-around might also surface a willing supervisor — not 100% dead. Low confidence.)*
 > - **AB scoped to data analysis / pipeline** — Tom fine with it.
 > - **RA: positive** — Ioannis will ask around the dept (pending). Income separately de-risked via restaurant work, so RA is complementary now.
 > - **CV feedback (the real takeaway):** strong on the technical *what*, weak on the *how/why* of decisions — "data-driven design" doesn't show through. The AB project is the vehicle to build that evidence (→ raises AB's value). See `user_career_targeting`.
