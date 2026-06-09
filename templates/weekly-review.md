@@ -66,3 +66,4 @@ created: {{date}}
 - [ ] `vault-save` - commit week's notes
 - [ ] Review essay seeds
 - [ ] Quick vault maintenance
+- [ ] Wins check - add this week's rows to `10-personal/wins.md` (feedback, clicks, connections, milestones)
