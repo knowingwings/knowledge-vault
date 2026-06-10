@@ -173,6 +173,7 @@ Generated 09/06 during the planning-stack evaluation. Keep adding rounds; cull w
 
 ### Parked / conditional
 - **Fallback ladder:** A: ISAM job (Astroscale standout; BAS now seriously on the table; DLR added) → B: uni RA → C: paid European lab stint (DLR RMC/ETHZ/EPFL) → PhD after (Prorok/Cambridge, ORI, EPFL/ETHZ)
+  - *BAS timing (checked 10/06): the relevant roles only open for applications **December-March** — so BAS can't help autumn 2026; it's a **Dec 2026 calendar entry** (alongside ESA EGT Feb 2027) and would mean a role starting well into 2027. Worth noting the antarctic season drives their cycle.*
 - PADI Open Water (Q4 2026 / 2027)
 - Orbital micro-assembly demo — "Lego in orbit" (income-gated; diligence on live kit-sat programmes)
 - Analog astronaut mission (eligibility look)
