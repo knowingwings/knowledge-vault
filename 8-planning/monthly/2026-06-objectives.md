@@ -74,6 +74,44 @@ Settle into the dissertation project sustainably (whatever form the Ioannis meet
 
 ---
 
+## Sub-objectives *(folded in 14/06 from the summer high-agency planning — `1-fleeting/2026-06-09 Summer high-agency ideas — generation rounds.md`; trackable layer under the objectives above)*
+
+**Under Obj 1 — Consultancy as flagship (workstream A):**
+- [x] PM role won (09/06) — run it deliberately as people-management evidence
+- [ ] Decision log running from day one (3-4 lines/decision, same-day) — the "data-driven design" evidence base
+- [ ] Project defined in SysML
+- [ ] MBSE: audit the Coursera Siemens course (cert £36 → post-income; knowledge now)
+- [ ] Charters delivered (Team + Project/Customer, due Wed 17/06)
+- [ ] Benchmarking / lit-review survey progressed (Nigel's report structure)
+- [ ] Delegation discipline held (don't re-absorb what's been handed off)
+
+**Under Obj 2 — Arm + play (workstream F):**
+- [ ] Arm: design complete + early prototyping by EOM (labspace-tailgate mechanism; not full handover)
+- [ ] Reducer: test new flex spline / draft redesign
+- [ ] Play window protected weekly — **now the decentralised algorithm** (switched from Algernon by choice 12/06; NEIL a sub-component). Hands-on, no deliverables, obligation work banned
+- [ ] Dyson Award (closes 15/07): decide NEIL vs Algernon entry, or a conscious no — by next weekend
+
+**New thread — Applications & network (workstream C; elevated from Secondary, now live):**
+- [ ] **Lunasa interview — prep + deliver well (Thu 18/06)** [W25 #1]
+- [ ] Job-search-parameters note (salary floor/range, relocation, visa, values line, must-haves) — decide before the pressure
+- [ ] Lodestar Space application out (avionics; prepped)
+- [ ] Jamie Palmer DM (recon first) — slipped, → W26
+- [ ] Audit batch: LinkedIn + tomleh.gg + Astroscale check + saved searches (4 boards) + ISAM-survey skeleton — slipped, → W26
+- [ ] STAR bank: 1 story/week from late June
+
+**Under Obj 3 — Mental health / ADHD (workstream G):**
+- [x] AXA route **closed by decision** (12/06) — employer private-medical route instead; coverage check moved to offer stage; reopen only on trigger
+- [ ] NHS registration → flagged as **July fix** (prerequisite for any England-side route)
+- [ ] Substrate as the explicit mental-health thread (sleep protocol = W25 headline; the crash experiment)
+
+**Standing / strategic (mostly Q3, parked here so they're not lost):**
+- [ ] RA position — Ioannis nudge sent (Mon 15/06); track the thread
+- [ ] Farnborough (20-24 Jul) decision early July — income-gated (~£79); check micro-grants
+- [ ] The decentralised paper = Q3 headline (starts when arm design ships) — feeds wedge-validation, PI/CTO payloads, knowingslab content
+- [ ] Q3 sprint drafted at EOM + 2026 annual plan retired
+
+---
+
 ## Secondary Progress *(low-pressure, capacity-permitting)*
 - [ ] Reducer **video** — comes out of the arm-hardware work (Objective 2); **no hard self-set date** (the twice-failed-deadline lesson). Ship when the work exists; a new design is fine and makes good follow-up content.
 - [ ] Icarus application — send post-Ioannis-feedback (CV already 1-page + accuracy-swept)
