@@ -35,12 +35,15 @@ Track your progress here. Review when motivation flags.
 | 2026-06-09 | My after-the-fact thinking pattern generalises to quiet teammates: written-input-before-discussion gives them the channel prep gives me | Self-knowledge ↔ people management |
 | 2026-06 | Environment is load-bearing: the labspace anchor (09:30 daily) fixed wake time, walking volume, and work initiation in one move | Physical environment ↔ productivity ↔ health |
 | 2026-05/06 | Substrate compounds quietly even when projects stall — fitness, sleep, and weigh-in held through the choppiest weeks of the term | Fitness ↔ mental state ↔ recovery speed |
+| 2026-06-14 (W24) | The silent-plans tax: unvoiced plans forfeit opportunities that reward early positioning — pre-commitment lifted from actions to directions | Opportunity windows ↔ pre-commitment / willpower |
+| 2026-06-14 | Substrate↔energy fully decoupled: best fasted anchor of the period (−1.0kg) through the lowest-energy week (two crash days). The foundation isn't what fails under load | Body composition ↔ energy ↔ burnout-baseline |
 
 ## Feedback From Others
 | Date | Source | Feedback |
 |------|--------|----------|
 | 2026-06-09 | Consultancy group (~new acquaintances) | **Voted me Project Manager** — a role I never angled for and argued against. People who barely knew me read me as the leader in the room. |
-| 2026-06-09 | Examiners | **RASID: 80.** EDSCS (with Dom): 74. Merit already secured. |
+| 2026-06-09 | Examiners | **RASID: 80.** EDSCS (with Dom): 74. **Research Skills / proposal: 76.** Three solid marks in one week. Merit already secured. |
+| 2026-06-11 | Lunasa (target ISAM company) | **Interview invite, Graduate Robotics Engineer** — unprompted, off the application. An unexpected validation (ranked above the grades by my own read: surprise validation counters the internal narrative harder than confirmed-expectation). |
 | 2026-06-05 | Ioannis | Took my individual-project case seriously, came away on board; comfortable being a referee; actionable CV feedback (show the how/why) — the kind of feedback you give someone worth investing in. |
 | 2026-01 | Jamie Palmer (Icarus CTO) | "Hopefully some roles will come out in summer that would align with your timeline" — kept the door explicitly open. |
 | ~2026 | Rover team software lead | "Hit me up" — proven-under-pressure teammate signalling he'd work with me again. |
