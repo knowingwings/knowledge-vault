@@ -1,7 +1,7 @@
 ---
 type: fleeting
 date: 2026-06-16
-status: tracked — decision pending (nothing started)
+status: tracked — timing RESOLVED (favourable); go-able, abstract not yet started
 tags: [career, paper, wedge, isam, isairas, q3]
 deadline: 2026-06-24
 ---
@@ -17,24 +17,34 @@ deadline: 2026-06-24
   - **iSpaRo = full 6-page IEEE paper** (PaperCept) by 24/06 — impossible for unstarted work; wrong door now.
 - Registration opens 16 Aug 2026.
 
+## i-SAIRAS full timeline (confirmed 16/06 from the CfP)
+- Abstract opens 16 Mar; **abstract deadline 24 June** (extended).
+- **Notification of acceptance: 24 August 2026.**
+- **Paper Contribution: OPTIONAL full paper, 20 October 2026.**
+- Conference 3-6 Nov.
+- *(iSpaRo, for contrast: full paper due 24 June; notify 24 Aug; camera-ready 24 Sept — the heavy route, ruled out.)*
+
+**This RESOLVES the collision question — favourably.** Mapped against the crunch: abstract (24 Jun) is before it; Ioannis offline 1-15 Aug / consultancy presentation 18 Aug / report before 1 Sep all ask nothing of i-SAIRAS; notification (24 Aug) is just an email, after the presentation; dissertation wraps mid-Sept; the optional paper (20 Oct) sits cleanly after everything. Submitting commits to ~nothing during the hard weeks; real work (if doing the optional paper) is October.
+
 ## Why it's strong
 - Ideal venue, exactly the target sector (network + credibility + O-1 receipt in one).
 - The paper was *already* the Q3 headline — this gives it the **external forcing function** the self-directed project layer chronically lacks (run-treatment applied to the wedge).
 - Honest abstract framing fits: "re-examine + validate the decentralised approach in simulation, addressing the gaps in the prior framework" (BEng extended Zavlanos-Spesivtsev-Pappas 2008; core claims unvalidated — see founding brief §2.5).
 - Not either/or with ICRA 2027: i-SAIRAS can be the lower-stakes presentation debut; archival full paper follows later (ICRA / future iSpaRo).
 
-## Risks / open questions
-- **MUST VERIFY BEFORE COMMITTING: the i-SAIRAS full-paper / presentation / camera-ready deadline** — not listed on the site. This is the whole load-collision question. If it's **August** → collides head-on with consultancy presentation (18 Aug), Ioannis offline (1-15 Aug), report (before 1 Sep). If **Sept/Oct presentation** → manageable, fits Q3. *Action to decide: email organisers or check acceptance terms.*
-- An accepted abstract is a soft commitment in a small target community — withdrawing carries mild reputational cost. Not free.
-- Validation is unproven (BEng didn't land the core claims); don't over-promise results.
-- **Nov Cologne = separate travel-cost decision** (competes with Farnborough; awkward if a new job has started by then; student rates likely). An accepted-but-can't-attend abstract is a problem.
-- **Must NOT cannibalise W25 #1/#2** (Lunasa interview Thu 18th; substrate recovery). Any abstract work is play-window/weekend only.
+## Risks / open questions (post-timeline)
+- **Timing collision: RESOLVED favourably** (see above) — was the one real blocker.
+- Accepting the abstract = a commitment to **present in Cologne in Nov**; the full paper is optional on top. Real obligation = show up + present. But notification is 24 Aug, so the attend/fund decision is made with full info and ~10 weeks' runway — not blind.
+- **Nov Cologne travel-cost** decision still stands (competes with Farnborough; student/early-career rates likely; by late Aug, income picture clearer). Don't submit unless prepared to present if accepted.
+- Validation unproven (BEng didn't land the core claims) — but the abstract only needs to credibly *promise*, the optional Oct paper is where results would live, and presentation-without-full-paper is valid. Low risk.
+- **Must NOT cannibalise W25 #1/#2** (Lunasa interview Thu 18th; substrate recovery). Any abstract work is play-window/weekend only, after the interview.
 
-## Recommendation (16/06)
-Go for the i-SAIRAS abstract **conditional on the deliverable deadline not being in the August black hole.** Next action = find that date; it flips "probably yes" → "submit" or "no, timing's brutal." Abstract draft can be prepped any time before 24/06 once the date's known.
+## Recommendation (16/06, updated)
+**Clear go on the abstract** — the timing blocker is resolved and resolved unusually well. Committed cost now = write an abstract (~8 days, low) + pre-register by 24/06; everything heavy is optional and deferred to October. The accepted-abstract → Nov presentation is exactly the external forcing function the wedge needs, at the ideal venue, with the go/no-go on attendance informed by the 24 Aug notification. Only reason to hold: if not willing to present in Cologne in November at all.
 
 ## State
-- [ ] Find the i-SAIRAS full-paper/presentation deadline (the gating unknown)
-- [ ] Decision: submit y/n
-- [ ] (if y) Draft abstract — based on BEng decentralised work + sim-validation extension
-- [ ] (if y) Pre-register by 24/06 (mandatory for abstract submitters)
+- [x] Find the i-SAIRAS deliverable timeline (RESOLVED 16/06: abstract 24 Jun → notify 24 Aug → optional paper 20 Oct → conf 3-6 Nov)
+- [ ] Decision: submit y/n *(recommendation: yes)*
+- [ ] (if y) Draft abstract — BEng decentralised work + sim-validation extension; scope honestly to work-in-progress
+- [ ] (if y) Pre-register + submit by 24/06 (pre-registration mandatory for abstract submitters)
+- [ ] (deferred to ~24 Aug) On acceptance: decide attendance + travel funding for Cologne Nov
