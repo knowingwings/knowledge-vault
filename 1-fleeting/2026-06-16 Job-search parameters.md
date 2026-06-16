@@ -23,6 +23,8 @@ Reusable across every application/offer (Lunasa, Lodestar, all future). Pin the 
 
 **Strategic overlay (founding brief):** the ISAM job is the apprenticeship/runway phase — comp is secondary to network, skills, sector exposure. For a *preferred* ISAM target, weight learning/equity/mission over base; don't let a worth-based floor cost the apprenticeship.
 
+**Negotiating position (16/06):** interim fallback = home in Guernsey with parents (zero rent) until a job lands. So there's **no income pressure forcing a quick/wrong acceptance** — the floor is genuinely affordable to hold, not bravado, and the search can wait for the right role. Use this as quiet leverage; never disclose it.
+
 ## Non-salary must-haves / wants
 - **Private medical — effectively a MUST (load-bearing):** the AXA/ADHD route was closed (12/06) *on the basis* that employer private medical covers the ADHD assessment. So "private medical that covers ADHD assessment" is a strategic must-have, not a perk. **Check coverage at offer stage.**
 - **Pension matching** — want (good-to-have).
