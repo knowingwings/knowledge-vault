@@ -154,7 +154,7 @@ Generated 09/06 during the planning-stack evaluation. Keep adding rounds; cull w
 - Name-exploration session (slower day; supersedes brand squat)
 
 ### Q3 sprint draft (July-Sept) — feed these into the EOM draft
-- **The wedge package [star]:** decentralised paper (sim extension/validation) → ICRA 2027 (~mid-Sept deadline, verify); PI-as-payload (Prorok + 2-3); CTO-payload (~5 ISAM leads); Pappas et al. email; ESA OSIP submission; meetup talk on the paper; reading-group interest scoping; Bath affiliation ask once underway
+- **The wedge package [star]:** decentralised paper (sim extension/validation) → **NEW live venue: i-SAIRAS 2026 abstract, deadline 24/06** (Cologne, 3-6 Nov; ideal sector venue + external forcing function — decision pending on the unverified full-paper deadline, see `1-fleeting/2026-06-16 i-SAIRAS 2026 abstract — opportunity (decision pending).md`); ICRA 2027 (~mid-Sept deadline) as the archival follow-on, not either/or; PI-as-payload (Prorok + 2-3); CTO-payload (~5 ISAM leads); Pappas et al. email; ESA OSIP submission; meetup talk on the paper; reading-group interest scoping; Bath affiliation ask once underway
 - Dissertation writing cadence + interview refresher, both from July
 - Farnborough decision early July (income-gated; check micro-grants + volunteer routes)
 - HAM Foundation licence (Q3 opportunity card)
