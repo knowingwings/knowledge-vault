@@ -15,9 +15,25 @@ Ioannis: "best if you get into contact directly with the academics to figure out
 - **Option 3 (piano exoskeletons):** Dingguo Zhang — Ioannis believes **he's already contacted Tom directly → CHECK INBOX** for that thread and reply there.
 
 **Next actions (after the interview, no rush):**
-- [ ] Check inbox for the Dingguo (Zhang) message re: #3; reply asking timeline + payment.
-- [ ] Email Sell + Bull re: #2 — interest + the two gating questions (paid? + summer-window/timeframe given the Sept exit).
+- [ ] Send the Sell + Bull intro (#2) and the Dingguo reply (#3) — drafts below.
 - [ ] Decide between 2 and 3 once both answer (or do both intros, decide on the replies).
+
+**Dingguo's email (received, #3):** "I have a PhD project: robotic hand exoskeletons for teaching human playing piano. We are improving the first-generation exoskeleton prototype. Are you interested in being involved?" — Dingguo Zhang, Bath Institute for the Augmented Human / CBio / **Centre for Doctoral Training in Accountable, Responsible and Transparent AI** / Dept of Electronic & Electrical Engineering. *Note the CDT affiliation + "PhD project" framing → #3 may be a funded-PhD route, not just summer RA = a Plan-C signal worth surfacing (hence the "toward the PhD" line in the reply).*
+
+### Draft — Sell + Bull (#2, new email, CC both)
+> **Subject:** Research project enquiry (via Ioannis Georgilas)
+> Hi Nathan, Hi Samuel,
+> Ioannis Georgilas passed on your details regarding the ML and control project, the RL wing-control and ML valve-systems work. I'm finishing a Robotics MSc at Bath in September, with a background in control, ROS2, and full-stack mechatronics, and I'd be interested in hearing more about what's currently scoped.
+> Two practical questions to start: is it a paid position, and what timeframe would it run over? I'm moving out of Bath around mid-September, so I'm mainly looking at what would fit a summer window.
+> Happy to send my CV or have a quick chat if that's easier.
+> Kind regards, Tom Le Huray
+
+### Draft — reply to Dingguo (#3, existing thread)
+> Hi Dingguo,
+> Thanks for reaching out, and for the detail. Yes, I'd be interested in hearing more. Improving a hardware prototype is squarely the kind of mechatronics work I enjoy, and the piano angle is a nice bonus.
+> A couple of practical questions to start: is the involvement paid, and what sort of timeframe would it run over? I'm finishing my MSc and moving out of Bath around mid-September, so I'm mainly looking at what fits a summer window, though I'm happy to hear if it's something longer-term, for instance toward the PhD itself.
+> Happy to send my CV or chat whenever suits.
+> Best regards, Tom
 
 ## The two gating questions (matter more than fit — out to Ioannis)
 1. **Paid or unpaid?** None say "paid RA" except #4 (funded PhD pathway). Exploratory language elsewhere → possibly unpaid/honorarium. Decisive given the income picture.
