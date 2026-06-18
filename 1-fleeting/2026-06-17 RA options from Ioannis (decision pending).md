@@ -1,13 +1,23 @@
 ---
 type: fleeting
 date: 2026-06-17
-status: tracked — decision pending (two gating questions out to Ioannis)
+status: tracked — Ioannis handed off; next action = Tom emails the academics directly (re: timeline + payment)
 tags: [career, ra, uni, ioannis, decision]
 ---
 
 # RA options from Ioannis (received 17/06) — decision pending
 
 Ioannis came back with four research options (the Mon-15th nudge worked). Not urgent — he said "let me know which you'd like to explore," no deadline. **Decide AFTER the Lunasa interview (Thu 18th); don't let it pull focus.**
+
+## Update (18/06) — Ioannis handed off, ball in Tom's court
+Ioannis: "best if you get into contact directly with the academics to figure out timelines and possibility of payment." Contacts:
+- **Option 2 (aerospace ML/control):** Nathan Sell `nps22@bath.ac.uk` + Samuel Bull `scb72@bath.ac.uk` — email them directly.
+- **Option 3 (piano exoskeletons):** Dingguo Zhang — Ioannis believes **he's already contacted Tom directly → CHECK INBOX** for that thread and reply there.
+
+**Next actions (after the interview, no rush):**
+- [ ] Check inbox for the Dingguo (Zhang) message re: #3; reply asking timeline + payment.
+- [ ] Email Sell + Bull re: #2 — interest + the two gating questions (paid? + summer-window/timeframe given the Sept exit).
+- [ ] Decide between 2 and 3 once both answer (or do both intros, decide on the replies).
 
 ## The two gating questions (matter more than fit — out to Ioannis)
 1. **Paid or unpaid?** None say "paid RA" except #4 (funded PhD pathway). Exploratory language elsewhere → possibly unpaid/honorarium. Decisive given the income picture.
