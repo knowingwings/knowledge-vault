@@ -20,18 +20,21 @@ Ioannis: "best if you get into contact directly with the academics to figure out
 
 **Dingguo's email (received, #3):** "I have a PhD project: robotic hand exoskeletons for teaching human playing piano. We are improving the first-generation exoskeleton prototype. Are you interested in being involved?" — Dingguo Zhang, Bath Institute for the Augmented Human / CBio / **Centre for Doctoral Training in Accountable, Responsible and Transparent AI** / Dept of Electronic & Electrical Engineering. *Note the CDT affiliation + "PhD project" framing → #3 may be a funded-PhD route, not just summer RA = a Plan-C signal worth surfacing (hence the "toward the PhD" line in the reply).*
 
-### Draft — Sell + Bull (#2, new email, CC both)
+### Framing note (important — from Ioannis's dept outreach email)
+Ioannis pitched Tom to the department as **"strongly interested in gaining research experience regardless"** of funding, having flagged funded opportunities may be limited this time of year (and heavily framed Tom as AI/ML-capable). So **leading with "is it paid?" undercuts that pitch + risks reading mercenary on first contact.** Reframe (applied below): lead with interest, make **timeframe the lead practical question** (the real constraint = Sept exit), soften payment to a light secondary that echoes keen-regardless. Tom can afford unpaid (Guernsey fallback + parallel paid job hunt), so the RA's value is experience/network/CV — payment is a bonus, not a gate.
+
+### Draft — Sell + Bull (#2, new email, CC both) — FINAL, send AM 19/06
 > **Subject:** Research project enquiry (via Ioannis Georgilas)
 > Hi Nathan, Hi Samuel,
-> Ioannis Georgilas passed on your details regarding the ML and control project, the RL wing-control and ML valve-systems work. I'm finishing a Robotics MSc at Bath in September, with a background in control, ROS2, and full-stack mechatronics, and I'd be interested in hearing more about what's currently scoped.
-> Two practical questions to start: is it a paid position, and what timeframe would it run over? I'm moving out of Bath around mid-September, so I'm mainly looking at what would fit a summer window.
-> Happy to send my CV or have a quick chat if that's easier.
+> Ioannis Georgilas passed on your details regarding the ML and control project, the RL wing-control and ML valve-systems work. I'm finishing a Robotics MSc at Bath in September, with a background in control, ROS2, and full-stack mechatronics, and I'd be keen to hear more about what's currently scoped.
+> The main practical thing I'd want to check is timeframe: I'm moving out of Bath around mid-September, so I'm mainly looking at what would fit a summer window. I understand funding may be limited this time of year and I'm interested either way, but it'd be helpful to know if anything's attached.
+> Happy to send my CV or have a quick chat whenever suits.
 > Kind regards, Tom Le Huray
 
-### Draft — reply to Dingguo (#3, existing thread)
+### Draft — reply to Dingguo (#3, existing thread) — FINAL, send AM 19/06
 > Hi Dingguo,
-> Thanks for reaching out, and for the detail. Yes, I'd be interested in hearing more. Improving a hardware prototype is squarely the kind of mechatronics work I enjoy, and the piano angle is a nice bonus.
-> A couple of practical questions to start: is the involvement paid, and what sort of timeframe would it run over? I'm finishing my MSc and moving out of Bath around mid-September, so I'm mainly looking at what fits a summer window, though I'm happy to hear if it's something longer-term, for instance toward the PhD itself.
+> Thanks for reaching out, and for the detail. Yes, I'd be keen to hear more. Improving a hardware prototype is squarely the kind of mechatronics work I enjoy, and the piano angle is a nice bonus.
+> The main thing I'd want to check is timeframe: I'm finishing my MSc and moving out of Bath around mid-September, so I'm mainly looking at what fits a summer window, though I'm happy to hear if it's something longer-term, for instance toward the PhD itself. I appreciate funding may be limited at this point in the year and I'm interested regardless, but any detail on the practicalities would be helpful.
 > Happy to send my CV or chat whenever suits.
 > Best regards, Tom
 
