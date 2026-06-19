@@ -23,7 +23,11 @@ Ioannis: "best if you get into contact directly with the academics to figure out
 ### Framing note (important — from Ioannis's dept outreach email)
 Ioannis pitched Tom to the department as **"strongly interested in gaining research experience regardless"** of funding, having flagged funded opportunities may be limited this time of year (and heavily framed Tom as AI/ML-capable). So **leading with "is it paid?" undercuts that pitch + risks reading mercenary on first contact.** Reframe (applied below): lead with interest, make **timeframe the lead practical question** (the real constraint = Sept exit), soften payment to a light secondary that echoes keen-regardless. Tom can afford unpaid (Guernsey fallback + parallel paid job hunt), so the RA's value is experience/network/CV — payment is a bonus, not a gate.
 
-### Draft — Sell + Bull (#2, new email, CC both) — FINAL, send AM 19/06
+### Send mechanics (19/06)
+- **#2 Sell/Bull:** ONE new email — **To: Nathan Sell + Samuel Bull (both), CC: Ioannis.** (Same project, so both as main recipients; CC Ioannis on this first contact to close his referral loop + satisfy "let me know how it goes" — drop him from later replies.)
+- **#3 Dingguo:** **Reply-all** on the existing thread (Ioannis already on it — reply-all keeps him looped; don't start a new email).
+
+### Draft — Sell + Bull (#2, new email; To: both, CC: Ioannis) — FINAL, send AM 19/06
 > **Subject:** Research project enquiry (via Ioannis Georgilas)
 > Hi Nathan, Hi Samuel,
 > Ioannis Georgilas passed on your details regarding the ML and control project, the RL wing-control and ML valve-systems work. I'm finishing a Robotics MSc at Bath in September, with a background in control, ROS2, and full-stack mechatronics, and I'd be keen to hear more about what's currently scoped.
