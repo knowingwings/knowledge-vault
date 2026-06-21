@@ -37,6 +37,8 @@ Track your progress here. Review when motivation flags.
 | 2026-05/06 | Substrate compounds quietly even when projects stall — fitness, sleep, and weigh-in held through the choppiest weeks of the term | Fitness ↔ mental state ↔ recovery speed |
 | 2026-06-14 (W24) | The silent-plans tax: unvoiced plans forfeit opportunities that reward early positioning — pre-commitment lifted from actions to directions | Opportunity windows ↔ pre-commitment / willpower |
 | 2026-06-14 | Substrate↔energy fully decoupled: best fasted anchor of the period (−1.0kg) through the lowest-energy week (two crash days). The foundation isn't what fails under load | Body composition ↔ energy ↔ burnout-baseline |
+| 2026-06-21 (W25) | Self-assessment reliability tracks energy: weekly recall is bleak at low energy, balanced at good energy (W24 at 1/5 buried every win; W25 at 4/5 was even-handed). Confirms the wins.md premise. | Metacognition ↔ energy/state ↔ burnout-baseline |
+| 2026-06-21 | Productive procrastination: when avoiding a high-friction task I'll still do valuable low-friction work if it's queued. Reframe the avoidance pattern from bug to managed feature. | Exec-function / task-friction ↔ output |
 
 ## Feedback From Others
 | Date | Source | Feedback |
@@ -51,11 +53,15 @@ Track your progress here. Review when motivation flags.
 
 ## Milestones (tangible, dated)
 - **2026-06-09 — Won the PM vote** under a ranked-choice system I proposed.
-- **2026-06-07 — First 10K** (1:05:47, bad weather, pre-committed) — longest run of the tracking period by 2x.
+- **2026-06-07 — First 10K** of rebuild (1:05:47, bad weather, pre-committed) — longest run of the tracking period by 2x.
 - **2026-06-05 — Consultancy fork closed** on my terms: case made, heard, graceful close, RA thread opened.
-- **2026-06-04 — First calisthenics session** of the rebuild; second within four days, on a loaded day.
+- **2026-06-04 — First calisthenics session** of the rebuild; second within four day3s, on a loaded day.
 - **2026-05→06 — Weight trend held/improved through the choppiest stretch**: fasted anchor 72.2-72.4 kg, maintained through crash days, drinks, deadlines.
 - **2026-06-01 — Declined GE Aerospace cleanly** (off-trajectory) — said no to a real offer because the plan is real.
 - **2026-05 — CVs accuracy-swept** (5 overclaims found and fixed) — the honest version is now also the sharper version.
 - **2026-04 — knowingslab launched.**
 - **2026-06-09 — Daily reflection cadence: held through every crash week since late May** (the 03/06 "skip" was a late entry, not a miss).
+- **2026-06-18 — Delivered the first interview of the season (Lunasa), and it went well** — one-applicant shortlist pending. Recon and prepped stories paid off.
+- **2026-06-19 — AB autotuner:** found the provided code had all the modules but nothing stringing them into an actual autotuner, wrote that integration and merged it to main.
+- **2026-06-20 — Second 10K of the rebuild**, on a recovery day — a 10K is becoming a normal reach, not a milestone effort.
+- **2026-06-21 — Job-application materials swept from liability to asset** (CV, portfolio, LinkedIn): live overclaims removed, flagship project added, all accurate and space-targeted.
