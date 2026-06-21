@@ -13,7 +13,7 @@ Reviewed 21/06 against the accuracy-swept CV. British English, no em-dashes. App
 > MSc Robotics & Autonomous Systems @ Bath · Technical Lead, Team Bath Roving arm · Full-stack mechatronics, focused on multi-robot autonomy & manipulation for space
 
 ## About
-> I'm a final-year MSc Robotics & Autonomous Systems student at the University of Bath (BEng Mechatronics, First Class), working towards a career in space robotics.
+> I'm completing an MSc in Robotics & Autonomous Systems at the University of Bath (graduating September 2026), and hold a First Class BEng in Mechatronics. I'm working towards a career in space robotics.
 >
 > I work across the full robotics stack: mechanism design, embedded firmware, perception, and system integration. I'm currently Technical Lead for Team Bath Roving's robotic arm, building a 6-DoF manipulator for the European Rover Challenge, and I design custom actuators and reducers in my own time.
 >
