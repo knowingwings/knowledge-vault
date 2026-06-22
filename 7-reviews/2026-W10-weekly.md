@@ -74,7 +74,3 @@ Visited SMRRF (Positron fork by Muon3D, 3D printed pharmaceuticals). Did some te
 - [ ] `vault-save` - commit week's notes
 - [ ] Review essay seeds
 - [ ] Quick vault maintenance
-
-
----
-*Related: [[patterns]] · [[founding-strategy-brief]]*

@@ -213,7 +213,3 @@ The detox plan was about to be locked as a 72-96hr "dopamine reset" — a popula
 
 ---
 *Month: [[2026-05-objectives]]*
-
-
----
-*Related: [[patterns]] · [[founding-strategy-brief]]*

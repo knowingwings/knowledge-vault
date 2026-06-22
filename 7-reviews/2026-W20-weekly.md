@@ -170,7 +170,3 @@ Evidence accumulating:
 
 ---
 *Month: [[2026-05-objectives]]*
-
-
----
-*Related: [[patterns]] · [[founding-strategy-brief]]*

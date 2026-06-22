@@ -131,7 +131,3 @@ created: 2026-05-10
 
 ---
 *Month: [[2026-05-objectives]]*
-
-
----
-*Related: [[patterns]] · [[founding-strategy-brief]]*
