@@ -1,7 +1,7 @@
 ---
 type: fleeting
 date: 2026-06-16
-status: tracked — timing RESOLVED (favourable); go-able, abstract not yet started
+status: DECIDED 22/06 — NOT submitting to i-SAIRAS 2026 (reg ~€790-900 prohibitive + attendance unlikely; solo + incomplete study + no institutional backing). Work deferred to summer; target a later/cheaper venue.
 tags: [career, paper, wedge, isam, isairas, q3]
 deadline: 2026-06-24
 ---
@@ -42,9 +42,16 @@ deadline: 2026-06-24
 ## Recommendation (16/06, updated)
 **Clear go on the abstract** — the timing blocker is resolved and resolved unusually well. Committed cost now = write an abstract (~8 days, low) + pre-register by 24/06; everything heavy is optional and deferred to October. The accepted-abstract → Nov presentation is exactly the external forcing function the wedge needs, at the ideal venue, with the go/no-go on attendance informed by the 24 Aug notification. Only reason to hold: if not willing to present in Cologne in November at all.
 
+## Decision (22/06): NOT submitting to i-SAIRAS 2026 — defer the work
+The fact that tips it: **registration is ~€790-900** (before flights/accommodation in Cologne). On an unsecured income picture that makes attendance unlikely, and an accepted abstract you cannot present is worse than no submission. Combined with: solo submission of a currently *incomplete* study, and needing to list an institution. Net: not feasible to submit responsibly against a 2-day deadline.
+
+**Plan:** keep developing the work over the summer (draft saved in `2026-06-22 i-SAIRAS abstract — draft.md`, grounded in the dissertation); target a later, better-aligned and/or cheaper venue once the validation is actually done — ideally with a co-author + institutional backing. i-SAIRAS is biennial; ICRA / IROS / iSpaRo / a workshop are options (the note already flagged i-SAIRAS need not be the archival home).
+
+**Honest caveat:** the 24/06 deadline was the *external forcing function* this note flagged as the wedge's main value. Deferring to "summer free time" removes it — which is exactly the unstructured condition the project layer historically stalls in (see the can't-start / H1-H2 pattern). If the work is actually to happen, pin it to a real new deadline (a chosen venue's CfP) or a pre-commitment, not open-ended free time.
+
 ## State
 - [x] Find the i-SAIRAS deliverable timeline (RESOLVED 16/06: abstract 24 Jun → notify 24 Aug → optional paper 20 Oct → conf 3-6 Nov)
-- [ ] Decision: submit y/n *(recommendation: yes)*
+- [x] Decision: submit y/n — **NO (22/06)**; defer, target a later/cheaper venue (see Decision above)
 - [ ] (if y) Draft abstract — BEng decentralised work + sim-validation extension; scope honestly to work-in-progress
 - [ ] (if y) Pre-register + submit by 24/06 (pre-registration mandatory for abstract submitters)
 - [ ] (deferred to ~24 Aug) On acceptance: decide attendance + travel funding for Cologne Nov
