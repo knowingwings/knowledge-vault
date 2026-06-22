@@ -162,3 +162,7 @@ Ran the full final week on the sofa; moving back to the bed end of May (sheet-sw
 - **Exercise consistency** — protect the one lever clearly working; consistency over intensity.
 - **Mental health** as an explicit thread, not an afterthought — June's quiet priority underneath the rest.
 
+
+
+---
+*Quarter: [[2026-Q2-sprint]]*

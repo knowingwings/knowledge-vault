@@ -109,3 +109,7 @@ created: 2026-06-07
 - [ ] `vault-save` — this review + daily 07/06
 - [x] Review essay seeds — none new
 - [x] Quick vault maintenance — project_q2_2026 + user_career_targeting updated (consultancy resolution); founding brief filed
+
+
+---
+*Month: [[2026-06-objectives]]*

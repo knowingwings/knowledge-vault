@@ -180,3 +180,7 @@ Substrate first. The arm push (Objective 2) is the main load risk — pace it ac
 
 
 ### Carry forward to next month:
+
+
+---
+*Quarter: [[2026-Q2-sprint]]*

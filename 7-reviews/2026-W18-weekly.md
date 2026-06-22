@@ -113,3 +113,7 @@ created: 2026-05-03
 - [x] `vault-save` — committing daily 03/05 + this review tonight
 - [x] Review essay seeds (added: side-projects-release-valve-vs-focus-dilution; carrying: burnout-motivation-energy)
 - [x] Quick vault maintenance (May objectives created, Q2 quarterly tally consolidated)
+
+
+---
+*Month: [[2026-04-objectives]]*

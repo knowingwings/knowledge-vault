@@ -90,3 +90,7 @@ created: 2026-06-21
 - [ ] Review essay seeds
 - [ ] Quick vault maintenance
 - [ ] Wins check - add this week's rows to `10-personal/wins.md`
+
+
+---
+*Month: [[2026-06-objectives]]*

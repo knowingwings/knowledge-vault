@@ -209,3 +209,7 @@ The detox plan was about to be locked as a 72-96hr "dopamine reset" — a popula
 ## Git & Admin (5-10 min)
 - [ ] `vault-save` — this review + daily 24/05 at end of day
 - [ ] Quick vault maintenance — likely a memory update on detox plan + H1/H2 framing
+
+
+---
+*Month: [[2026-05-objectives]]*

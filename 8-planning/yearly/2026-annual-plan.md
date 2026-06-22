@@ -169,3 +169,7 @@ created: 2026-01-15
 
 ### Gratitude - What am I thankful for?
 
+
+
+---
+*Vision: [[10-year-vision-2036]] · [[founding-strategy-brief]]*

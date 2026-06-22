@@ -188,3 +188,7 @@ Finish all remaining uni assignments and start the YouTube channel.
 - Long-form reflection on long-term direction
 - PL business plan redo (if time)
 
+
+
+---
+*Quarter: [[2026-Q2-sprint]]*

@@ -127,3 +127,7 @@ created: 2026-05-10
 - [ ] `vault-save` - commit week's notes
 - [ ] Review essay seeds
 - [ ] Quick vault maintenance
+
+
+---
+*Month: [[2026-05-objectives]]*
