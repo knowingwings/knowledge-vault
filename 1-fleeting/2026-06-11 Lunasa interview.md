@@ -48,7 +48,7 @@ Application submitted 26/04; interview request landed 11/06 while in the TBRo la
 >
 > **Why Lúnasa:** "Lúnasa's the one I kept coming back to. The RPO and relative-navigation side is the hard part of servicing, which is the kind of problem I'd want to work on, and Cosmic Labs is a sensible way to bring the cost of getting to orbit down. With the Infinite Orbits acquisition it also looks like the work's moving toward actually flying, rather than staying at the research stage."
 >
-> **What I'd bring:** "I tend to work across the stack rather than sitting in one layer — comfortable on the hardware/mechanism side and the autonomy/software side, and the part I've enjoyed most is the integration between them. On my dissertation project I wrote the control interface that bridged the motion-controller firmware, the higher-level software, and the physical end-effector — getting the whole thing working together. For a team trying to get RPO systems onto real spacecraft, that full-stack flexibility seems useful."
+> **What I'd bring:** "I tend to work across the stack rather than sitting in one layer — comfortable on the hardware/mechanism side and the autonomy/software side, and the part I've enjoyed most is the integration between them. On a recent group project I wrote the control interface that bridged the motion-controller firmware, the higher-level software, and the physical end-effector — getting the whole thing working together. For a team trying to get RPO systems onto real spacecraft, that full-stack flexibility seems useful."
 
 *Coaching notes: vision implied through reasoning, not declared ("humanity's next step" belief stays internal — reads more genuine understated). Both-sides claim anchored to integration + the concrete ros2_control example so it lands as a strength, not jack-of-all-trades. Don't memorise verbatim — hit the beats in your own words.*
 
@@ -85,11 +85,11 @@ Application submitted 26/04; interview request landed 11/06 while in the TBRo la
 - **The close (methodology, not one-off):** "...and it's the same empirical-characterisation approach I'm now applying on the AB Dynamics consultancy — measuring how a system actually behaves versus how it's specified to." Ties to current industry work + maps to their TRL/validation world (RANGER = TRL 5→7 is exactly this).
 
 ## Prep plan (weekend, before Mon)
-- [ ] **Lunasa recon:** current projects, vision, recent news, who the leadership/engineering attendees might be (LinkedIn). Tie to why-ISAM narrative.
-- [ ] **The "what excites you" answer** — this is the actual exam. Draft + say it out loud. The ISAM trajectory + hardware bias + rover arm story; force the "so what?" layer.
-- [ ] **Question bank (the proven method):** 6-8 questions arced company-state -> engineering -> role shape -> growth. At least one that shows real recon.
-- [ ] **One technical story loaded** (rover arm or reducer, STAR shape, with the data-driven why).
-- [ ] **Logistics:** Teams link comes after confirmation; test camera/mic/backdrop in the flat.
+- [x] **Lunasa recon:** current projects, vision, recent news, who the leadership/engineering attendees might be (LinkedIn). Tie to why-ISAM narrative.
+- [x] **The "what excites you" answer** — this is the actual exam. Draft + say it out loud. The ISAM trajectory + hardware bias + rover arm story; force the "so what?" layer.
+- [x] **Question bank (the proven method):** 6-8 questions arced company-state -> engineering -> role shape -> growth. At least one that shows real recon.
+- [x] **One technical story loaded** (rover arm or reducer, STAR shape, with the data-driven why).
+- [x] **Logistics:** Teams link comes after confirmation; test camera/mic/backdrop in the flat.
 - Weekend rebalance: interview prep takes priority over MBSE course if they collide — MBSE can shrink to one session.
 
 ## IMPORTANT — they have the PRE-sweep CV (checked 11/06)
@@ -107,3 +107,7 @@ The application went in 26/04, a month before the accuracy sweep (26/05). `job_a
 ## Context
 - First interview of the season — and the door was opened by the *pre-sweep* CV (applied 26/04, sweep was 26/05); the corrected story is what walks through it.
 - Lunasa applications were the first of Q2 (two roles, 26/04); the GNC one stays silent for now.
+
+
+---
+*Related: [[2026-04-22-isam-job-targets]] · [[2026-06-16 Job-search parameters]] · [[founding-strategy-brief]]*

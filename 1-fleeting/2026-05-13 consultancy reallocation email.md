@@ -58,3 +58,7 @@ tomleh.gg
 - Does NOT co-sign Dom's process complaint — Tom's email stays focused on his own case.
 - Does NOT compare himself to other students — fit-for-project, not stronger-than-people.
 - Decentralised control in multi-agent robotics is the individual-project topic. Genuinely ISAM-aligned (multi-cooperating-robots = On-Orbit Assembly territory). Stronger fallback than first credited.
+
+
+---
+*Related: [[2026-06-07 AB consultancy networking event prep]] · [[founding-strategy-brief]]*

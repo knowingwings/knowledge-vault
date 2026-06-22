@@ -76,3 +76,7 @@ RAS presentation, ETHZ application, and TBRo Reducer Testing.
 
 ---
 *Month: [[2026-02-objectives]]*
+
+
+---
+*Related: [[patterns]] · [[founding-strategy-brief]]*

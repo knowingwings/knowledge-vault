@@ -110,3 +110,7 @@ Revisit this vision when:
 - Significant career pivot points
 - Annual review (December each year)
 - When daily work feels disconnected from these goals
+
+
+---
+*Related: [[founding-strategy-brief]]*

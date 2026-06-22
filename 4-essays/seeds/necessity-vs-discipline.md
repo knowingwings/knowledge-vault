@@ -37,3 +37,7 @@ Each one waits for a forcing function.
 
 ## Status
 Seed. Worth drafting after the immediate burnout phase clears — when there's energy to write reflectively rather than just observe.
+
+
+---
+*Related: [[patterns]] · [[burnout-motivation-energy]]*

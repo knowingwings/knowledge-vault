@@ -63,3 +63,7 @@ tags: [uni, consultancy, ab-dynamics, ioannis, cv, meeting, career, individual-p
 - If AB confirmed: get the shaping concrete; pursue restaurant work for income.
 - Either way: pursue restaurant work for income; revise Icarus CV per any feedback, then redraft the Jamie Palmer message.
 - Log outcome + RA / individual signal in the day's daily; update `project_q2_2026.md`.
+
+
+---
+*Related: [[2026-05-18 Ioannis reply response drafting]] · [[2026-06-21 LinkedIn profile update]] · [[2026-04-22-isam-job-targets]]*

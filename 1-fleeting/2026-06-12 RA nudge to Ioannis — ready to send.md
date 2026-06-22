@@ -25,3 +25,7 @@ Tom
 ---
 
 *Drafting notes: kept deliberately plain (corpo-speak stripped on v2); the Lunasa line shares news without falsely crediting the CV feedback (they have the pre-sweep April CV — the feedback is honestly credited to the interview prep instead).*
+
+
+---
+*Related: [[2026-06-17 RA options from Ioannis (decision pending)]] · [[2026-05-18 Ioannis reply response drafting]]*

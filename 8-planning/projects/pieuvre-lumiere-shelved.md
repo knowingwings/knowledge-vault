@@ -83,3 +83,7 @@ Don't revisit unless several of these are true:
 - Architectural model service business
 - The specific revenue/financial projections
 - The lamp collection concept names (Rocquaine / Sark Light / Fort Grey / etc.) — usable if a different lighting venture ever happens, but not committed to
+
+
+---
+*Related: [[founding-strategy-brief]]*

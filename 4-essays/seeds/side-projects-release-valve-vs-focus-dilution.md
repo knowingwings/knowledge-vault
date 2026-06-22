@@ -39,3 +39,7 @@ Hurt case (focus dilution):
 
 ## Status
 Seed. Don't decide on the second channel until Reducer + Algernon are shipped (i.e. the main channel has a real existence). At that point, the question can be asked honestly.
+
+
+---
+*Related: [[patterns]] · [[joy-stripped-by-structure]] · [[founding-strategy-brief]]*

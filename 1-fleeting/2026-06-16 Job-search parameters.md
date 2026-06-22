@@ -54,3 +54,7 @@ Reusable across every application/offer (Lunasa, Lodestar, all future). Pin the 
 ## How to use
 - **Screening calls:** don't raise salary; if they raise it, state the range (£40-45k target / open on the right package) and move on. Negotiate at offer stage with leverage.
 - **Offer stage:** check against this list — salary vs target/floor, private-medical+ADHD coverage, pension, equity, values. Total package, not just base.
+
+
+---
+*Related: [[2026-04-22-isam-job-targets]] · [[founding-strategy-brief]]*

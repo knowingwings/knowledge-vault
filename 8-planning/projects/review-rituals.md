@@ -311,3 +311,7 @@ created: {{date}}
 | Sun Mar 15 | **HALF MARATHON** |
 | Sun Mar 22 | Weekly Review |
 | Sat/Sun Mar 28-29 | **Quarterly Review (Q1)** + Monthly (March) |
+
+
+---
+*Related: [[patterns]]*

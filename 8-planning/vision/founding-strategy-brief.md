@@ -476,3 +476,7 @@ written). Honest deltas:
 *Revisit on: major pivots, a concrete job offer (ask "what visa, and can you afford it / would
 you go O-1?"), the values decision, or any move toward incorporation. Pair every **[VERIFY]**
 with a named professional before relying on it.*
+
+
+---
+*Related: [[2026-04-22-isam-job-targets]] · [[reducer]] · [[rasid-printer-cell]] · [[distributed-auction-dissertation]] · [[knowingslab]] · [[patterns]] · [[10-year-vision-2036]]*

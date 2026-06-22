@@ -59,3 +59,7 @@ Ioannis pitched Tom to the department as **"strongly interested in gaining resea
 
 ## PS
 Ioannis asked about a "Ben Le Huray" (Bath student, 90s). Le Huray = common Guernsey surname; reply warmly (cheap rapport), no known relation.
+
+
+---
+*Related: [[2026-06-12 RA nudge to Ioannis — ready to send]] · [[2026-05-18 Ioannis reply response drafting]] · [[founding-strategy-brief]] · [[2026-04-22-isam-job-targets]]*

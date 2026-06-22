@@ -52,3 +52,7 @@ It was allocated rather than chosen, but is a useful fit for developing the data
 8. How much does the optimal tuning vary across vehicles, setups, or conditions — one general solution, or per-configuration?
 9. Are there constraints on the approach — does it need to be interpretable to operators, real-time, or safety-bounded?
 10. What would success look like at the end — a tool, a methodology, a proof-of-concept? And who are the end users?
+
+
+---
+*Related: [[2026-05-13 consultancy reallocation email]] · [[founding-strategy-brief]]*

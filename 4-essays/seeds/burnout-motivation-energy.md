@@ -32,3 +32,7 @@ Personal use first: a way to think harder about the underlying state before comm
 
 ## Status
 Seed only. Not for drafting until end-of-month long reflection at minimum, possibly later when the question has had time to settle.
+
+
+---
+*Related: [[patterns]] · [[necessity-vs-discipline]] · [[joy-stripped-by-structure]]*

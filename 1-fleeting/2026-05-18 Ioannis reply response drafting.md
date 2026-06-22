@@ -140,3 +140,7 @@ Tom
 - Vapormatt 2025 is the canonical top-down portfolio piece worth surfacing in any future "do you have system-level work?" conversation.
 - AB Dynamics is now reframed as: depth-on-balanced-profile, supervisor-relationship-building, employability-support-pathway. Not consolation prize.
 - Drop-out option still exists in principle but structurally weaker post-this-reply: Ioannis as supervisor + employability hub access + concrete CV review + flexibility within AB = more support than most students get.
+
+
+---
+*Related: [[2026-05-29 Ioannis CV-review meeting prep]] · [[2026-06-12 RA nudge to Ioannis — ready to send]] · [[2026-06-17 RA options from Ioannis (decision pending)]]*

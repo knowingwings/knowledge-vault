@@ -65,3 +65,7 @@ Track your progress here. Review when motivation flags.
 - **2026-06-19 — AB autotuner:** found the provided code had all the modules but nothing stringing them into an actual autotuner, wrote that integration and merged it to main.
 - **2026-06-20 — Second 10K of the rebuild**, on a recovery day — a 10K is becoming a normal reach, not a milestone effort.
 - **2026-06-21 — Job-application materials swept from liability to asset** (CV, portfolio, LinkedIn): live overclaims removed, flagship project added, all accurate and space-targeted.
+
+
+---
+*Related: [[patterns]]*

@@ -142,3 +142,7 @@ created: 2026-01-30
 - [ ] Preferred suppliers?
 - [ ] Any team stock to check first?
 - [ ] Lead times - anything critical?
+
+
+---
+*Related: [[reducer]] · [[founding-strategy-brief]]*

@@ -55,3 +55,7 @@ The fact that tips it: **registration is ~€790-900** (before flights/accommoda
 - [ ] (if y) Draft abstract — BEng decentralised work + sim-validation extension; scope honestly to work-in-progress
 - [ ] (if y) Pre-register + submit by 24/06 (pre-registration mandatory for abstract submitters)
 - [ ] (deferred to ~24 Aug) On acceptance: decide attendance + travel funding for Cologne Nov
+
+
+---
+*Related: [[2026-06-22 i-SAIRAS abstract — draft]] · [[distributed-auction-dissertation]] · [[founding-strategy-brief]]*

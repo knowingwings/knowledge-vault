@@ -157,3 +157,7 @@ Update the daily structure template:
 - Sleep is non-negotiable with this training load
 - Thursday evening is intentionally light after long run
 - Sunday full rest to recover before Monday restart
+
+
+---
+*Related: [[patterns]] · [[mobility-routine]] · [[q1-nutrition-plan]]*

@@ -194,3 +194,7 @@ Add to monthly review:
 - If constantly tired or hungry, eat more (especially carbs on run days)
 - Don't cut too hard on budget at expense of performance
 - Ready meals are fine sometimes - just balance with home cooking
+
+
+---
+*Related: [[exercise-plan]] · [[patterns]]*

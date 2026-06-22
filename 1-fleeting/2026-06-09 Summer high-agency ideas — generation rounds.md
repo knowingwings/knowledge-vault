@@ -189,3 +189,7 @@ Generated 09/06 during the planning-stack evaluation. Keep adding rounds; cull w
 - Restaurant work (advert pulled); IAC (closed); patent clearance/defensive pub (revisit post-redesign)
 - Fly Your Thesis (eligibility); ARISS Gsy (replaced by cubs avenue); brand squat (replaced by name exploration)
 - PL unshelving (evidence confirmed the shelving; lamp-as-play instead)
+
+
+---
+*Related: [[founding-strategy-brief]] · [[2026-04-22-isam-job-targets]] · [[10-year-vision-2036]]*

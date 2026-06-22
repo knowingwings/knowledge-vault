@@ -41,3 +41,7 @@ multi-robot systems; decentralised / distributed task allocation; auction algori
 - **Scope = a commitment:** submitting commits to presenting in Cologne (3-6 Nov); promises validation work delivered Sept-Oct (after the dissertation wraps). Already decided "go" + willing to present — a confirm, not a re-decide.
 - **Author/affiliation line:** Thomas Le Huray, University of Bath (work originated in the BEng at Gloucestershire). BEng supervisors were Dr Muhammad Babar Rasheed and Prof. Shujun Zhang — decide whether to credit them (co-author/acknowledgement) given this is an independent extension, or submit solo / with Ioannis.
 - **GH repo:** not needed for the abstract (dissertation is enough). It IS the key input for the Oct validation work — that is where the price-update and recovery-detection bugs the diss flagged get located and fixed.
+
+
+---
+*Related: [[2026-06-16 i-SAIRAS 2026 abstract — opportunity (decision pending)]] · [[distributed-auction-dissertation]]*

@@ -40,3 +40,6 @@ Now onto the testing. For now I'm not testing the actual torque output of the re
 
 ## Conclusion
 So you're probably thinking: What's next? Well of course we have the testing of the production version of the reducer and its integration with the rover, but I'm also very excited to introduce you all to someone in the next video: barring me actually finishing the little guy. As with all the videos I intend to publish you can find a companion blogpost on my website tomleh.gg, link in the description or somewhere up here *point top right*. Thank you all for watching and I'll see you guys in a week or two. 
+
+---
+*Related: [[reducer]] · [[knowingslab]]*

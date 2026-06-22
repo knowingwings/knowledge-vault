@@ -35,3 +35,7 @@ Examples (from the past month):
 
 ## Status
 Seed. Worth drafting after the W20 experiment runs — if the "Reducer ships when happy" reframe actually restores the joy, that's empirical evidence for the essay.
+
+
+---
+*Related: [[patterns]] · [[side-projects-release-valve-vs-focus-dilution]] · [[burnout-motivation-energy]]*

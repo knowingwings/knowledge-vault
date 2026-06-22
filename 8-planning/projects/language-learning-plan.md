@@ -214,3 +214,7 @@ Options:
 - Pathos trip: Aug 1-8, 2026 - Greek deadline
 - Keep sessions sustainable - 45-60 min is enough
 - Quality > quantity - focused practice beats passive exposure
+
+
+---
+*Related: [[founding-strategy-brief]]*

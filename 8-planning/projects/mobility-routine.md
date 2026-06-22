@@ -27,3 +27,7 @@ Evening mobility sequence (started ~19/06/2026). Low-effort, recovery-oriented �
 - Low barrier to entry — a good "something even on a crash day" floor (done on the 19/06 crash evening).
 - Wind-down before sleep; supports the sleep-protocol experiment.
 - Update here as the routine evolves (add/swap movements, adjust durations).
+
+
+---
+*Related: [[exercise-plan]] · [[patterns]]*

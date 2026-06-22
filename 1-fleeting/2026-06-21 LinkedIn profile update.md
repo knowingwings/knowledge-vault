@@ -45,3 +45,7 @@ Reviewed 21/06 against the accuracy-swept CV. British English, no em-dashes. App
 ## What was already fine (no overclaims)
 - The Polar, both Vapormatt, and Offshore Electronics experience descriptions match the swept CV.
 - Activity (space/robotics reposts) is good engagement, no action.
+
+
+---
+*Related: [[2026-04-22-isam-job-targets]] · [[2026-05-29 Ioannis CV-review meeting prep]]*

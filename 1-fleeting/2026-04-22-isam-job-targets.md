@@ -70,3 +70,7 @@ Shortlist to evaluate — scope 3-4 more for this week's first batch:
 - [ ] Build a space-angled CV variant (for GNC/robotics apps)
 - [ ] LinkedIn refresh (match swept CV) + tomleh.gg audit
 - [~] ClearSpace robotics role: live listing is **Luxembourg** (visa-constrained) + 3+ yr bar → **revisit later this week** (22/06 decision: kept viable). Explore Lux role seniority + sponsorship feasibility; re-verify whether any *UK* ClearSpace robo role is live.
+
+
+---
+*Related: [[founding-strategy-brief]] · [[10-year-vision-2036]] · [[2026-06-16 Job-search parameters]] · [[rasid-printer-cell]]*
