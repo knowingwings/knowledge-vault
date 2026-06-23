@@ -1,7 +1,7 @@
 ---
 type: fleeting
 date: 2026-06-17
-status: tracked — Ioannis handed off; next action = Tom emails the academics directly (re: timeline + payment)
+status: live → #3 (Dingguo → PhD student Nathan, unfunded mech task); reply drafted, sending 24/06. #2 (Sell/Bull) silent.
 tags: [career, ra, uni, ioannis, decision]
 ---
 
@@ -19,6 +19,13 @@ Ioannis: "best if you get into contact directly with the academics to figure out
 - [ ] Decide between 2 and 3 once both answer (or do both intros, decide on the replies).
 
 **Dingguo's email (received, #3):** "I have a PhD project: robotic hand exoskeletons for teaching human playing piano. We are improving the first-generation exoskeleton prototype. Are you interested in being involved?" — Dingguo Zhang, Bath Institute for the Augmented Human / CBio / **Centre for Doctoral Training in Accountable, Responsible and Transparent AI** / Dept of Electronic & Electrical Engineering. *Note the CDT affiliation + "PhD project" framing → #3 may be a funded-PhD route, not just summer RA = a Plan-C signal worth surfacing (hence the "toward the PhD" line in the reply).*
+
+## Update (23/06) — resolved toward #3 (Dingguo → Nathan), unfunded
+- **#2 (Sell/Bull): silent.** No reply to the 19/06 intro.
+- **#3 (Dingguo): live, unfunded.** Dingguo replied 19/06: no funding for the internship, but pointed me to his PhD student **Nathan Lau** to discuss involvement in his project ("no requirement for you, as you are a volunteer"). Nathan reached out 23/06 with "a small self-contained mech-related thing" and offered to set me on it.
+- **Action:** reply drafted ([[2026-06-23 Nathan RA reply — ready to send]]), sending 24/06 — interest plus scoping questions (task scope/goal, weekly time) so I can commit with eyes open against the current load.
+- **Gating answers:** Q1 (paid?) = unpaid/volunteer, accepted (keen regardless; the value is experience + a Bath research link). Q2 (summer-window fit?) = "small self-contained" suggests yes; confirming the exact time with Nathan.
+- **Net:** #3 is the one that materialised. #1 set aside, #4 noted as the Plan-C funded-PhD signal, #2 silent.
 
 ### Framing note (important — from Ioannis's dept outreach email)
 Ioannis pitched Tom to the department as **"strongly interested in gaining research experience regardless"** of funding, having flagged funded opportunities may be limited this time of year (and heavily framed Tom as AI/ML-capable). So **leading with "is it paid?" undercuts that pitch + risks reading mercenary on first contact.** Reframe (applied below): lead with interest, make **timeframe the lead practical question** (the real constraint = Sept exit), soften payment to a light secondary that echoes keen-regardless. Tom can afford unpaid (Guernsey fallback + parallel paid job hunt), so the RA's value is experience/network/CV — payment is a bonus, not a gate.
