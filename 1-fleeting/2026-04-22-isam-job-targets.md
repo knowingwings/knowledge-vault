@@ -45,7 +45,7 @@ Shortlist to evaluate — scope 3-4 more for this week's first batch:
    - **Fit = near-bullseye + on the founding wedge:** autonomous *in-space assembly* of km-scale structures (SBSP) — the "A" in ISAM, dead-on his vision (cf. the "mini-arms assembling a structure in orbit" summer idea). Skill match: Python/C++/ROS ✓, robotics HW (sensors/actuators/controllers/firmware/electrical) ✓, Gazebo + SolidWorks ✓ (2 of their 3 sim tools), structural/mechanism design + manufacturability ✓, perception/CV/ML + Jetson ✓, terrestrial prototyping ✓.
    - **His two flagships map straight on:** RASID = an autonomous assembly cell; the dissertation = multi-robot coordination (their "robotic ecosystems coordinating with other systems, digital twins, shared world models").
    - **Watch-points (honest, non-fatal):** "proven experience designing/developing/*deploying*" = project/academic not professional years (lead with built working systems); no NVIDIA Isaac Sim (has Gazebo); no in-space deployment (terrestrial rigs only).
-   - **ACTION:** tailored CV + cover letter (like Lodestar) — HIGH priority. This is exactly the role the planned **space-angled CV variant** is for. **Grab the closing date** to sequence vs abstract (24/06) + inspection (Thu 25/06). Closing **31/07/2026** — plenty of runway. Salary not listed.
+   - **STATUS (SUBMITTED 22/06):** tailored 2-page CV + the 200-word project answer (bundle in `job_applis/space-solar/`). Closing was 31/07/2026; salary not listed. See the offer-stage gates below before any interview.
    - **Due diligence (22/06; full report in `job_applis/space-solar/`):** real, credible early-stage co (Soltau/Adlen ex-SEI; UKAEA/Thales/National Grid/Queen's Belfast partners; genuine near-term work incl. **AlbaTRUSS** dual-arm in-space-assembly demo). BUT **thinly capitalized + high-risk**: ~£1.4M equity, $12.5M seed ~1yr overdue, holding-co cash £91k, running on convertible notes; SBSP economics genuinely disputed (2030+ horizon). **Verdict: apply (work is dead-on the wedge, skills transferable) but treat as a high-risk/high-mission bet, not a stable first job.** Offer-stage gates: (1) cash salary alone must clear the £40k floor — value equity/growth-share at ~zero; (2) ask directly: has the seed closed, how much, runway in months?
 
 1. **Astroscale UK (Didcot/Harwell) — best fit WHEN LIVE (no visa, cleanest Guernsey bridge), but WATCH not apply right now (22/06: no junior role open).**
@@ -57,7 +57,7 @@ Shortlist to evaluate — scope 3-4 more for this week's first batch:
    - **Revisited 24/06 (RESOLVED → park):** there IS a live **UK** Space Robotics Engineer role (SpaceTalent board), so the visa worry is moot: a no-visa UK option exists, doing exactly the wedge (in-orbit servicing, capture, docking, inspection, refuelling, **assembly**). BUT both the UK and Lux robotics roles require **3+ years robotics/mechatronics/EE experience within the space industry**, which I do not have as a fresh grad. Unlike Space Solar (all-levels, "talent over checklist"), this is a hard experienced-level gate. **Not a current application; park as a ~2-3-year target** once I have space-industry experience. (Exact UK listing wording unconfirmed: board fetch refused; the 3+ yr space-industry bar is clear across their robotics roles.)
 3. **D-Orbit (Italy) — LOWER (now).** Current listings skew senior (Senior AOCS/GNC, Space Systems Eng). EU (Blue Card). **ACTION:** board-alert only; not a current grad fit.
 4. **Open Cosmos (Didcot) — LOWER FIT.** Has 2026 grad roles but they're **software/backend (DataCosmos / flight dynamics)**, not robotics/mechatronics — weak fit for the hardware profile. **ACTION:** deprioritise unless a robotics role appears.
-5. **Lodestar Space (London) — PREPPED, READY TO SUBMIT.** Avionics hardware eng; band E1 £30-55k; Jetson preferred-skill match; values check noted. Notes + listing in `job_applis/lodestar/`. **ACTION:** submit (his hands; cover letter + CV tailor with help).
+5. **Lodestar Space (London) — REJECTED 24/06** (submitted 22/06). Avionics hardware eng; band E1 £30-55k. Fast turnaround (2 days) → reads as an early CV screen, not a deep evaluation. Was never the bullseye (honest gaps: PCB depth, no space-qual). First no of the round; low signal. Space Solar remains the one that matters.
 6. **US set (Starfish, Orbit Fab, GITAI, Kall Morris) — PARKED** (sponsorship-dependent) unless a standout role + sponsorship appears.
 
 **Board search-alerts to set (his hands, ~15 min):** space-careers.com, spacecrew.com, euroengineerjobs.com, jobs.spacetalent.org, **spacecareers.uk** (UK student/grad-focused — ties to the UKSEDS idea), ukspacejobs.co.uk. Filters: "Robotics Engineer" / "GNC Engineer" / "Graduate" + UK/EU.
@@ -66,10 +66,10 @@ Shortlist to evaluate — scope 3-4 more for this week's first batch:
 
 **Next actions (this sweep, 21/06):**
 - [x] Astroscale: browsed 22/06 → no live junior/GNC/robotics role (listings page, mostly senior UK); grad scheme out-of-window → set alert, recheck ~autumn (see #1). Not a current pipeline item.
-- [ ] Lodestar: submit (prepped)
-- [ ] Set the 6 board alerts
+- [x] Lodestar: submitted 22/06 (alongside the Space Solar application).
+- [x] Board alerts (set 22-24/06): ukspacejobs.co.uk + space-careers.com alerts live; spacecareers.uk = manual check (no alert option). spacecrew + jobs.spacetalent.org dropped (stale listings / page gone). Coverage adequate.
 - [~] Build a space-angled CV variant — DROPPED (24/06): tailor each CV from the master per application instead; a generic variant still needs per-job tailoring, so it does not earn its keep.
-- [ ] LinkedIn refresh (match swept CV) + tomleh.gg audit
+- [x] LinkedIn refresh (match swept CV) + tomleh.gg audit
 - [x] ClearSpace robotics role (revisited 24/06): live **UK** role confirmed (no-visa) AND a Lux role, but both need **3+ yrs space-industry experience** → not junior-accessible. Park as a ~2-3-yr target (see #2).
 
 
