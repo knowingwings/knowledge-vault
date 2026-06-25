@@ -1,7 +1,7 @@
 ---
 type: fleeting
 date: 2026-06-17
-status: live → #3 (Dingguo → PhD student Nathan, unfunded mech task); reply drafted, sending 24/06. #2 (Sell/Bull) silent.
+status: ACTIVE → #3 taken on 25/06 (Nathan's mech task: actuator-to-finger motion transfer, piano exoskeleton; ~1 month, self-paced, unfunded). #2 (Sell/Bull) silent.
 tags: [career, ra, uni, ioannis, decision]
 ---
 
@@ -19,6 +19,9 @@ Ioannis: "best if you get into contact directly with the academics to figure out
 - [ ] Decide between 2 and 3 once both answer (or do both intros, decide on the replies).
 
 **Dingguo's email (received, #3):** "I have a PhD project: robotic hand exoskeletons for teaching human playing piano. We are improving the first-generation exoskeleton prototype. Are you interested in being involved?" — Dingguo Zhang, Bath Institute for the Augmented Human / CBio / **Centre for Doctoral Training in Accountable, Responsible and Transparent AI** / Dept of Electronic & Electrical Engineering. *Note the CDT affiliation + "PhD project" framing → #3 may be a funded-PhD route, not just summer RA = a Plan-C signal worth surfacing (hence the "toward the PhD" line in the reply).*
+
+## Update (25/06) — met Nathan, taking the task on
+Met Nathan in person (campus, 11:00). He is sound and the work is genuinely interesting: **mechanisms to transfer motion from an actuator to the finger** (the piano hand-exoskeleton). Commitment is loose and self-defined, bounded to about a month. **Taking it on.** Enabling action: get **Fusion working on Odin** again (would not run after the OS switch a few months ago). Fri 26/06: heading to the Robotics Lab with Nathan for some initial draft work.
 
 ## Update (23/06) — resolved toward #3 (Dingguo → Nathan), unfunded
 - **#2 (Sell/Bull): silent.** No reply to the 19/06 intro.
