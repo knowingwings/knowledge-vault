@@ -7,7 +7,7 @@ tags: [career, job-apps, isam, new-space]
 
 # ISAM Job Targets — to work through
 
-First application going tomorrow: **Lunasa** (grad roboticist; possibly GNC role too).
+First application going tomorrow: **Lunasa** (grad roboticist; possibly GNC role too). **[Status 26/06: interviewed 18/06 (went well); no reply to the interview or a 26/06 follow-up to Amin. Treating as effectively closed, though possibly just a slow process or wrong contact/timing rather than a definite no.]**
 
 Shortlist to evaluate — scope 3-4 more for this week's first batch:
 
