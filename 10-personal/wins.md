@@ -1,7 +1,7 @@
 ---
 type: personal/wins
 created: 2026-01-15
-last_updated: 2026-06-09
+last_updated: 2026-06-28
 ---
 
 # Wins
@@ -18,6 +18,7 @@ Track your progress here. Review when motivation flags.
 | 2026-05 | Dopamine detox is a behavioural diagnostic, not a "receptor reset" | Researching it properly killed the pop-psychology version; what remained was actually useful — a way to test what's driving the can't-start pattern. |
 | 2026-06-09 | Question banks aren't a crutch, they're my method | The 10 prepped questions at the AB kickoff didn't just compensate for weak spontaneous questioning — they got me voted PM. Prep IS the social performance. |
 | 2026-06-09 | The silent-plans tax | Unvoiced plans forfeit opportunity windows (Fly Your Thesis, EGT, Dyson timing). Pre-commitment applied one level up: pre-declare directions, not just actions. |
+| 2026-06-22 (W26) | Specialist job boards surface strong leads fast; the pipeline was under-searched, not thin | Set board alerts and Space Solar (the bullseye) surfaced within minutes, 20 min after I'd written the pipeline off as thin. It became a CTO interview in three days. |
 
 ## Explanations That Landed Well
 | Date | Topic | Audience | What Worked |
@@ -39,6 +40,8 @@ Track your progress here. Review when motivation flags.
 | 2026-06-14 | Substrate↔energy fully decoupled: best fasted anchor of the period (−1.0kg) through the lowest-energy week (two crash days). The foundation isn't what fails under load | Body composition ↔ energy ↔ burnout-baseline |
 | 2026-06-21 (W25) | Self-assessment reliability tracks energy: weekly recall is bleak at low energy, balanced at good energy (W24 at 1/5 buried every win; W25 at 4/5 was even-handed). Confirms the wins.md premise. | Metacognition ↔ energy/state ↔ burnout-baseline |
 | 2026-06-21 | Productive procrastination: when avoiding a high-friction task I'll still do valuable low-friction work if it's queued. Reframe the avoidance pattern from bug to managed feature. | Exec-function / task-friction ↔ output |
+| 2026-06-26 (W26) | The long-arc regret is timing, not ability: present work disproves "not applying myself"; the real regret is delayed initiation (the silent-plans tax). A corrosive identity story reframed into a fixable behavioural one. | Self-narrative ↔ initiation / can't-start pattern |
+| 2026-06-28 (W26) | "Hope not expectation": detaching from outcome-scripts (past = regret, future = expectation) to stay present. Validated on the date; the antidote to outcome-anxiety. | Outcome-anxiety ↔ presence / the Lunasa-wait pattern |
 
 ## Feedback From Others
 | Date | Source | Feedback |
@@ -65,6 +68,7 @@ Track your progress here. Review when motivation flags.
 - **2026-06-19 — AB autotuner:** found the provided code had all the modules but nothing stringing them into an actual autotuner, wrote that integration and merged it to main.
 - **2026-06-20 — Second 10K of the rebuild**, on a recovery day — a 10K is becoming a normal reach, not a milestone effort.
 - **2026-06-21 — Job-application materials swept from liability to asset** (CV, portfolio, LinkedIn): live overclaims removed, flagship project added, all accurate and space-targeted.
+- **2026-06-25 — Space Solar CTO interview secured** — found via the board search Mon 22/06, applied same-day, CTO interview invite (David Homfray) by Thursday for Tue 30/06. The bullseye application to a CTO interview in three days.
 
 
 ---
