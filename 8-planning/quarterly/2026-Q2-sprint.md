@@ -2,8 +2,9 @@
 type: planning/quarterly
 quarter: Q2
 year: 2026
-status: active
+status: complete
 created: 2026-04-19
+reviewed: 2026-06-30
 ---
 
 # 2026 Q2 Sprint (Apr - Jun)
@@ -217,23 +218,40 @@ created: 2026-04-19
 
 ---
 
-## Quarter Review (Complete at end of June)
+## Quarter Review (completed 30/06/2026)
 
 ### Priority Assessment
 | Priority | Status | Notes |
 |----------|--------|-------|
-| 1. | Complete / Partial / Missed | |
-| 2. | Complete / Partial / Missed | |
-| 3. | Complete / Partial / Missed | |
+| 1. Uni Wrapped | **Complete** (Q2 scope) | Every scheduled assessment delivered with strong marks (RASID report 80, presentation 74, EDSCS 74, Research Skills 76, CMNT done); merit secured. Consultancy live since June and I'm PM, scoped to the data pipeline. Dissertation/consultancy continues to mid-Sept. |
+| 2. YouTube Shipped | **Missed** | 0/3 videos. A deliberate deprioritisation, not an execution failure - reframed mid-quarter to byproduct-not-target (the protected play-window supersedes the standalone video goal; filming permitted, never required). |
+| 3. Career & Portfolio | **Partial** | Volume targets all came in low (4 targeted apps vs 15; 0 cold outreaches vs 5-10; rover arm no working prototype; Jamie Palmer DM never sent). But outcomes over-delivered: 4 apps converted to 2 interviews including the bullseye (Space Solar CTO interview 30/06), Lunasa interviewed, RA secured (Nathan), and the whole application machine rebuilt from liability to asset. The quality strategy worked; the volume targets were never the point. |
 
 ### Reflection
-- What worked well:
-- What didn't work:
-- Key learnings:
+- **What worked well:**
+  - The board search surfaced Space Solar (the bullseye) in minutes - the pipeline was under-searched, not thin.
+  - Quality over quantity in applications: 4 sharp, targeted apps out-converted a volume spray (50% interview rate).
+  - External structure beats willpower: the 09:30 labspace anchor + the PM role gave default structure. Every Q2 priority with external structure landed; every self-directed one didn't (the 09/06 finding, the quarter's headline).
+  - Substrate held under load: fasted anchor maintained, runs through crash weeks - the foundation didn't fail even when projects stalled.
+  - Materials rebuilt from liability to asset; the honest version turned out to be the sharper one. Won the PM vote, converting people-management from a weakness into evidenced capability.
+- **What didn't work:**
+  - Anything self-directed with no deadline slipped: YouTube (0), rover arm (no prototype), cold outreaches (0), the Jamie Palmer DM (never sent). One pattern, four symptoms.
+  - Every volume target came in low - the flip side of the quality win.
+  - The can't-start / initiation pattern is still live at the project layer (the reels slips, the silent-plans tax).
+- **Key learnings:**
+  - Structure, not willpower: external pre-commitment binds, self-set deadlines don't. The central lesson of the quarter.
+  - Quality beats volume in a targeted job search.
+  - Regret is timing, not ability (delayed initiation); hope not expectation for the waits.
 
 ### Carry Forward to Q3
--
--
+- **Consultancy / dissertation = the Q3 headliner.** Runs to mid-Sept. The over-staffing is structural and won't be fixed - the posture is just get it done: execute and complete it, don't gold-plate the weak pairs' sections.
+- **Landing a role** - still live and major. Space Solar outcome (interview 30/06 + any next rounds), Lunasa outcome; keep the quality-targeted approach, broaden the board search.
+- **RA piano-exo task** (Nathan) - ~1 month, runs into Q3; first concepts this week.
+- **Rover arm → working prototype** - carried incomplete; get a working prototype asap.
+- **YouTube** - byproduct of the protected play-window, no standalone target.
+- **The initiation pattern** - still the core unresolved thread; keep the H1 lever (apps off phone); ADHD assessment (NHS registration = July fix).
+- **Fitness** - re-establish the run/calisthenics rhythm now the heat's broken; protect the substrate.
+- **The decentralised-auction paper → deferred to Q4** (was a mooted Q3 headline; pushed back).
 
 
 ---

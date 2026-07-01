@@ -1,8 +1,9 @@
 ---
 type: planning/monthly
 month: 2026-06
-status: active
+status: complete
 created: 2026-05-31
+reviewed: 2026-06-30
 ---
 
 # June 2026 Objectives
@@ -141,45 +142,58 @@ Substrate first. The arm push (Objective 2) is the main load risk — pace it ac
 
 ---
 
-## Month-End Review (Complete last day of month)
+## Month-End Review (completed 30/06/2026)
 
 ### Knowledge
-- Topics covered:
-- Gaps identified:
-- Priority for next month:
+- **Topics covered:** system identification / characterisation (the AB consultancy data pipeline + the system-ID deep-dive); space-based solar power and in-space assembly (Space Solar prep - manufacturability, Homfray's worldview); interview craft (board search, quality-targeting, prep and delivery under pressure); MBSE / SysML for the consultancy.
+- **Gaps identified:** interviewing was the named gap going in - now substantially tested and passed (the full-hour Space Solar interview); the consultancy's system characterisation (the team is a bit lost on it); NVIDIA Isaac Sim still the one sim tool not held.
+- **Priority for next month (July):** the consultancy (Q3 headliner - execute the system characterisation, get it done); the RA piano-exo task; the Space Solar process; NHS registration (the ADHD-route prerequisite).
 
 ### Articulation Check
-| Concept | Can ELI5? | Notes |
-|---------|-----------|-------|
-| 1. | Y/N | |
-| 2. | Y/N | |
-| 3. | Y/N | |
+*Skipped on the night (low energy, no rote recall). Got a real-world test instead: explained the dissertation, the SBSP thesis, and the RASID integration live in the Space Solar interview, and they landed - which beats rote recall.*
 
 ### Quarterly Progress
-- Priority 1: __% | Blockers:
-- Priority 2: __% | Blockers:
-- Priority 3: __% | Blockers:
+- **Priority 1: ~90%** | Blockers: consultancy over-staffing + system characterisation (structural, won't be fixed - the posture is execute and complete).
+- **Priority 2: 0%** | Blockers: self-directed with no external structure; deliberately deprioritised and reframed to byproduct.
+- **Priority 3: ~70%** | Blockers: outreach volume never happened, rover arm stalled - offset by strong outcomes (2 interviews including the bullseye, RA secured, materials rebuilt).
 
 ### Nutrition
-- Average energy (1-5):
-- Training performance:
-- Spend: (untracked until income — revisit if RA lands)
+- **Average energy (1-5):** ~3.3 (steadier than May; 30/06 the one volatile outlier, 2 to 5 to 3).
+- **Training performance:** strong - ~14 runs including three 10K+ long runs (the two 10Ks + the 30/06 12K), calisthenics habit established.
+- **Spend:** untracked until income.
 
 ### Fitness
-- Runs completed: /~18 (4/week, aiming 5)
-- Long runs: /~4
-- Calisthenics: __ (target this month = established at all, not a count)
+- **Runs completed:** ~14 / ~18 (a real base; heat curtailed the back half).
+- **Long runs:** 3 / ~4 (07/06 10K, 20/06 10K, 30/06 12K - the last the longest of the period).
+- **Calisthenics:** established (the persistent May-0 fixed; ~4 sessions). June goal was "established at all" - met.
 
 ### Key Wins
-
+- Won the PM vote (09/06).
+- Application materials rebuilt from liability to asset (21/06).
+- **Space Solar found (22/06) → CTO interview delivered under real adversity (30/06)** - strong shot, likely Harwell follow-up; Homfray's "your CV stood out, I'm looking for builders" validating the whole CV strategy.
+- RA secured (Nathan's piano-exo task).
+- Lunasa interview delivered (18/06) - the first of the season, good experience even though it closed as a no.
+- Two insights banked: regret-is-timing (26/06), hope-not-expectation (28/06).
+- Apps-off-phone focus fix (27/06).
+- First and second 10K, plus the 30/06 12K (longest run of the period); calisthenics habit established.
 
 ### What didn't get done? Why?
-
+- **Rover arm prototype** - crowded out by the consultancy ramp, the job search, and the project-layer can't-start pattern.
+- **YouTube (0 videos)** - deliberately deprioritised, reframed to byproduct.
+- **Cold outreaches + the Jamie Palmer DM** - slipped; Icarus now questioned on visa grounds.
+- Two month-end nos absorbed without derailing: Lunasa (rejection) and Annika (friendzone).
 
 ### Energy/wellbeing check:
+A steadier month than May - no multi-day crash, though 30/06 was the single most volatile day (2 to 5 to 3). The PM win and the Space Solar interview lifted the back half. The substrate held strongly and proved itself an active regulation tool (two clearing runs on the 30th). Mental health steadier than May; the pacing constraint mostly respected (not a sprint-to-collapse). Two real rejections at month-end taken on the chin.
 
-
-### Carry forward to next month:
+### Carry forward to next month (July):
+- **Consultancy = the Q3 headliner:** execute the system characterisation, just get it done, don't gold-plate the weak pairs' work.
+- **Space Solar process** - the wait and the likely Harwell second round; apply hope not expectation, do not slip into inbox-refreshing.
+- **RA piano-exo** concepts/work (Nathan).
+- **NHS registration** - the July fix, prerequisite for any England-side ADHD route.
+- **Re-establish the run/calisthenics rhythm** now the heat has broken.
+- **Farnborough** decision early July (20-24 Jul, ~£79, income-gated).
+- **The Guernsey bridge** noted as the contingency if Space Solar does not land.
 
 
 ---
